@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fintech-labs.git.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="17" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="38rFOcXID0ykbtxDQzw47DptBo6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ChatTagsLlmMigration": "true",
+    "RunOnceActivity.ClientConfigCleanupMigration": "true",
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyAccountsIdsRefresh": "true",
+    "RunOnceActivity.CodyAssignOrphanedChatsToActiveAccount": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyMigrateChatHistory-v2": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.DeprecatedChatLlmMigration": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.ToggleCodyToolWindowAfterMigration": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\FINTECH\fintech-labs.git\Python-Statistics-Financial-Analysis\week1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="" />
+      <created>1769549760404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769549760404</updated>
+      <workItem from="1769549761651" duration="8000" />
+      <workItem from="1769549804381" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
