@@ -30,26 +30,34 @@ ms.to_csv('../data_aux/microsoft_features.csv')
 # Plot the 60-day moving average and the closing price for the year 2015
 plt.figure(figsize=(8, 7))
 
+# --- Plot con 2 subplots: (1) Close + MAs, (2) Return ---
+df = ms.loc['2015-01-01':'2015-12-31'].copy()
 
-# X: display ‘month-year’ such as Jan-2015
-ax = plt.gca()
-#ax.xaxis.set_major_locator(mdates.MonthLocator(interval=2, ))
-ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[2, 4, 6, 8, 10, 12], bymonthday=1))
-ax.xaxis.set_major_formatter(mdates.DateFormatter('%b-%Y'))
-plt.xticks(rotation=45, ha='right')
+fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8, 9), sharex=True)
 
-# And: start at 20, or at 0, Axis limits:
-plt.ylim(35, 60)
-ax.yaxis.set_major_locator(mticker.MultipleLocator(5))
+# ===== Subplot 1: Price + averages =====
+df['Close'].plot(ax=ax1, label='Close')
+df['ma30'].plot(ax=ax1, label='MA30', linestyle=':')
+df['ma60'].plot(ax=ax1, label='MA60', linestyle='-.')
+df['ma120'].plot(ax=ax1, label='MA120', linestyle='--')
 
-ms['Close'].loc['2015-01-01':'2015-12-31'].plot(label='Close')
-ms['ma30'].loc['2015-01-01':'2015-12-31'].plot(label='MA30', linestyle=':')
-ms['ma60'].loc['2015-01-01':'2015-12-31'].plot(label='MA60', linestyle='-.')
-# Vlaues for linestyle: '-', '--', '-.', ':', 'None', ' ', '', 'solid', 'dashed', 'dashdot', 'dotted'
-ms['ma120'].loc['2015-01-01':'2015-12-31'].plot(label='MA120', linestyle='--')
-ms['Return'].loc['2015-01-01':'2015-12-31'].plot(label='Return')
-plt.title('Microsoft Stock Price and 60-day Moving Average (2015)')
-plt.xlabel('Date')
-plt.ylabel('Price')
-plt.legend()
+ax1.set_title('Microsoft (2015): Price + Moving Averages')
+ax1.set_ylabel('Price')
+ax1.set_ylim(35, 60)
+ax1.yaxis.set_major_locator(mticker.MultipleLocator(5))
+ax1.legend()
+
+# ===== Subplot 2: Return =====
+df['Return'].plot(ax=ax2, label='Return')
+ax2.axhline(0, linewidth=1)
+ax2.set_title('Daily Return (next-day / today close)')
+ax2.set_ylabel('Return')
+ax2.legend()
+
+# ===== X: ticks every 2 months starting in February (on the shared axis) =====
+ax2.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[2, 4, 6, 8, 10, 12], bymonthday=1))
+ax2.xaxis.set_major_formatter(mdates.DateFormatter('%b-%Y'))
+plt.setp(ax2.get_xticklabels(), rotation=45, ha='right')
+
+plt.tight_layout()
 plt.show()
