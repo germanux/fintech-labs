@@ -50,8 +50,15 @@ ax1.legend()
 # ===== Subplot 2: Return =====
 df['Return'].plot(ax=ax2, label='Return')
 ax2.axhline(0, linewidth=1)
-ax2.set_title('Daily Return (next-day / today close)')
+ax2.set_title('Daily Return (next-day / today close) and PriceDiff')
 ax2.set_ylabel('Return')
+
+ax2b = ax2.twinx()
+df['PriceDiff'].plot(ax=ax2b, color='g', label='PriceDiff', linestyle='--')
+ax2b.set_ylabel('PriceDiff', color='g')
+ax2b.yaxis.set_label_position("right")
+ax2b.yaxis.tick_right()
+ax2b.grid(False)
 ax2.legend()
 
 # ===== X: ticks every 2 months starting in February (on the shared axis) =====
