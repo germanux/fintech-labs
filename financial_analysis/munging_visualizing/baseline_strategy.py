@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 # Load Facebook stock data and calculate moving averages
 # MA10: 10-day moving average, MA50: 50-day moving average
 fb = pd.read_csv('../data/facebook.csv')
+
 fb['MA10'] = fb['Close'].rolling(10).mean()
 fb['MA50'] = fb['Close'].rolling(50).mean()
 
@@ -32,4 +33,14 @@ plt.title('Daily Profit/Loss from Moving Average Crossover Strategy')
 plt.xlabel('Index')
 plt.ylabel('Profit')
 plt.legend()
+plt.show()
+
+
+# Use .cumsum() to display our model's performance if we follow the strategy
+#Use .cumsum() to calculate the accumulated wealth over the period
+fb['wealth'] = fb['Profit'].cumsum()
+fb.tail()
+fb['wealth'].plot()
+plt.title('Total money you win is {}'.format(fb.loc[fb.index[-2], 'wealth']))
+
 plt.show()
