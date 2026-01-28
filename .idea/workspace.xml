@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="Fix example, index dates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/financial_analysis/data/microsoft_with_diff.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/financial_analysis/munging_visualizing/microsoft_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/financial_analysis/munging_visualizing/microsoft_features.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,17 +75,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1770411600000" />
-    <option name="spentUsd" value="0.07088745" />
+    <option name="spentUsd" value="0.1199305" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="6" />
+    <option name="suspendCountdown" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -147,7 +146,7 @@
       <workItem from="1769554367674" duration="134000" />
       <workItem from="1769593864190" duration="2930000" />
       <workItem from="1769597067303" duration="218000" />
-      <workItem from="1769597306258" duration="6616000" />
+      <workItem from="1769597306258" duration="7691000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Python for Fintech course. Deps and basic files">
       <option name="closed" value="true" />
@@ -207,5 +206,9 @@
     <MESSAGE value="IDEA files" />
     <MESSAGE value="Fix example, index dates" />
     <option name="LAST_COMMIT_MESSAGE" value="Fix example, index dates" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
