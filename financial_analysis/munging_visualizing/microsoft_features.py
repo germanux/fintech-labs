@@ -47,6 +47,7 @@ ms['ma30'].loc['2015-01-01':'2015-12-31'].plot(label='MA30', linestyle=':')
 ms['ma60'].loc['2015-01-01':'2015-12-31'].plot(label='MA60', linestyle='-.')
 # Vlaues for linestyle: '-', '--', '-.', ':', 'None', ' ', '', 'solid', 'dashed', 'dashdot', 'dotted'
 ms['ma120'].loc['2015-01-01':'2015-12-31'].plot(label='MA120', linestyle='--')
+ms['Return'].loc['2015-01-01':'2015-12-31'].plot(label='Return')
 plt.title('Microsoft Stock Price and 60-day Moving Average (2015)')
 plt.xlabel('Date')
 plt.ylabel('Price')
