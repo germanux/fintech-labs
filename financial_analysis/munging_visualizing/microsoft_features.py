@@ -28,40 +28,40 @@ ms.to_csv('../data_aux/microsoft_features.csv')
 
 
 # Plot the 60-day moving average and the closing price for the year 2015
-plt.figure(figsize=(8, 7))
+# plt.figure(figsize=(8, 7))
 
 # --- Plot con 2 subplots: (1) Close + MAs, (2) Return ---
 df = ms.loc['2015-01-01':'2015-12-31'].copy()
 
-fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8, 9), sharex=True)
+fig, (ax1, ax2) = plt.subplots(3, 1, figsize=(8, 9), sharex=True)
 
 # ===== Subplot 1: Price + averages =====
 df['Close'].plot(ax=ax1, label='Close')
 df['ma30'].plot(ax=ax1, label='MA30', linestyle=':')
 df['ma60'].plot(ax=ax1, label='MA60', linestyle='-.')
 df['ma120'].plot(ax=ax1, label='MA120', linestyle='--')
-
 ax1.set_title('Microsoft (2015): Price + Moving Averages')
 ax1.set_ylabel('Price')
 ax1.set_ylim(35, 60)
 ax1.yaxis.set_major_locator(mticker.MultipleLocator(5))
 ax1.legend()
 
-# ===== Subplot 2: Return =====
-df['Return'].plot(ax=ax2, label='Return')
+# ===== Subplot 2: Return (%) + PriceDiff ($) =====
+df['Return'].plot(ax=ax2, label='Return (%)', linestyle=':', linewidth=1.5)
 ax2.axhline(0, linewidth=1)
-ax2.set_title('Daily Return (next-day / today close) and PriceDiff')
-ax2.set_ylabel('Return')
+ax2.set_ylabel('Return (%)')
 
 ax2b = ax2.twinx()
-df['PriceDiff'].plot(ax=ax2b, color='g', label='PriceDiff', linestyle='--')
-ax2b.set_ylabel('PriceDiff', color='g')
-ax2b.yaxis.set_label_position("right")
-ax2b.yaxis.tick_right()
+df['Direction'].plot(ax=ax2b, label='PriceDiff ($)', linestyle='--', linewidth=1.0, alpha=0.8)
+ax2b.set_ylabel('PriceDiff ($)')
 ax2b.grid(False)
-ax2.legend()
 
-# ===== X: ticks every 2 months starting in February (on the shared axis) =====
+# Leyenda combinada (ambos ejes)
+l1, lab1 = ax2.get_legend_handles_labels()
+l2, lab2 = ax2b.get_legend_handles_labels()
+ax2.legend(l1 + l2, lab1 + lab2, loc='upper left')
+
+# X ticks cada 2 meses empezando en febrero
 ax2.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[2, 4, 6, 8, 10, 12], bymonthday=1))
 ax2.xaxis.set_major_formatter(mdates.DateFormatter('%b-%Y'))
 plt.setp(ax2.get_xticklabels(), rotation=45, ha='right')

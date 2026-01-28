@@ -7,8 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="Split microsoft plot into two subplots">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="Add PriceDiff">
       <change beforePath="$PROJECT_DIR$/financial_analysis/munging_visualizing/microsoft_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/financial_analysis/munging_visualizing/microsoft_features.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,10 +84,10 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1770411600000" />
-    <option name="spentUsd" value="0.21174231" />
+    <option name="spentUsd" value="0.21867107" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="2" />
+    <option name="suspendCountdown" value="1" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,7 +148,7 @@
       <workItem from="1769554367674" duration="134000" />
       <workItem from="1769593864190" duration="2930000" />
       <workItem from="1769597067303" duration="218000" />
-      <workItem from="1769597306258" duration="10731000" />
+      <workItem from="1769597306258" duration="12122000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Python for Fintech course. Deps and basic files">
       <option name="closed" value="true" />
@@ -199,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769616317854</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add PriceDiff">
+      <option name="closed" value="true" />
+      <created>1769624362594</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769624362594</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +240,8 @@
     <MESSAGE value="IDEA files" />
     <MESSAGE value="Fix example, index dates" />
     <MESSAGE value="Split microsoft plot into two subplots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Split microsoft plot into two subplots" />
+    <MESSAGE value="Add PriceDiff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PriceDiff" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
