@@ -22,6 +22,9 @@ plt.figure(figsize=(10, 8))
 fb['Close1'] = fb['Close'].shift(-1)
 fb['Profit'] = [fb.loc[ei, 'Close1'] - fb.loc[ei, 'Close'] if fb.loc[ei, 'Shares']==1 else 0 for ei in fb.index]
 
+# Save the processed DataFrame to a new CSV file
+fb.to_csv('../data_aux/facebook_features.csv')
+
 # Plot the daily profit/loss and a horizontal line at 0 for reference
 fb['Profit'].plot()
 plt.axhline(y=0, color='red')

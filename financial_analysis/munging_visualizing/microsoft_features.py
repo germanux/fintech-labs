@@ -61,7 +61,7 @@ ax3.set_ylabel('Dir')
 ax3.set_ylim(-0.1, 1.1)
 ax3.legend()
 
-# X ticks cada 2 meses empezando en febrero (ponlo en el último eje)
+# X ticks every 2 months starting in February (place it on the last axis)
 ax3.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[2, 4, 6, 8, 10, 12], bymonthday=1))
 ax3.xaxis.set_major_formatter(mdates.DateFormatter('%b-%Y'))
 plt.setp(ax3.get_xticklabels(), rotation=45, ha='right')
