@@ -50,3 +50,19 @@ def backtest_ma_crossover(df: pd.DataFrame, fast: int, slow: int, fee_bps: float
         'trades': int(x['trade'].sum()),
         'final_eq': float(x['strat_eq'].iloc[-1]),
     }
+
+def grid_search(df, fast_list, slow_list, fee_bps=0.0):
+    rows = []
+    for fast in fast_list:
+        for slow in slow_list:
+            if fast >= slow:
+                continue
+            rows.append(backtest_ma_crossover(df, fast, slow, fee_bps=fee_bps))
+    res = pd.DataFrame(rows).sort_values(['sharpe', 'total_return'], ascending=False)
+    return res
+
+# Ejemplo:
+# fast_list = range(5, 31, 5)      # 5,10,15,20,25,30
+# slow_list = range(20, 201, 10)   # 20..200
+# results = grid_search(df, fast_list, slow_list, fee_bps=10)
+# print(results.head(10))
