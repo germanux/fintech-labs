@@ -1,0 +1,150 @@
+1) x['strat_ret'] = x['pos_lag'] * x['ret'] - cost
+Python/pandas (qué está pasando)
+
+x['pos_lag'], x['ret'], cost son Series (una columna), con el mismo índice (fechas).
+
+En pandas, las operaciones * y - se hacen elemento a elemento (como arrays), alineando por índice.
+
+Si en un día:
+
+pos_lag = 1 (estás dentro)
+
+ret = 0.002 (sube 0.2%)
+
+cost = 0.001 (0.1% de coste ese día por trade)
+
+Entonces:
+
+strat_ret = 1 * 0.002 - 0.001 = 0.001 (0.1%)
+
+Si pos_lag = 0 (fuera):
+
+strat_ret = 0 * ret - cost
+
+normal: cost es 0 si no hay trade, así que se queda 0.
+
+Interpretación:
+
+pos_lag * ret = “ganas el retorno del mercado solo cuando estás dentro”.
+
+- cost = “restas coste cuando cambias de posición”.
+
+2) Equity curve con cumprod()
+x['strat_eq'] = (1 + x['strat_ret']).cumprod()
+x['bh_eq'] = (1 + x['bh_ret']).cumprod()
+
+Idea financiera
+
+La equity es “capital acumulado” si reinviertes cada día.
+
+Si empiezas con 1.0 (100%) y hoy ganas +1%, mañana pierdes -2%:
+
+Día1: 1.0 * (1 + 0.01) = 1.01
+
+Día2: 1.01 * (1 - 0.02) = 0.9898
+
+Eso es multiplicar factores diarios. Por eso cumprod() (producto acumulado).
+
+Python/pandas
+
+1 + x['strat_ret'] crea la serie de “factores” (1.001, 0.998, etc.)
+
+.cumprod() hace el producto acumulado:
+[f1, f1*f2, f1*f2*f3, ...]
+
+bh_eq es lo mismo pero con buy&hold (retorno del activo siempre, sin estar “fuera”).
+
+3) Max drawdown
+peak = equity.cummax()
+dd = equity / peak - 1.0
+return dd.min()
+
+Qué es drawdown (finanzas)
+
+El drawdown es cuánto has caído desde tu máximo anterior.
+
+Ejemplo:
+
+Equity: [1.0, 1.2, 1.1, 1.3, 1.0]
+
+Máximo hasta cada punto (peak): [1.0, 1.2, 1.2, 1.3, 1.3]
+
+Drawdown: equity/peak - 1:
+
+[0%, 0%, -8.33%, 0%, -23.08%]
+
+Max drawdown = el peor: -23.08%
+
+Python/pandas
+
+cummax() = máximo acumulado.
+
+equity / peak - 1 = caída relativa en cada fecha.
+
+min() = la caída más negativa (peor momento).
+
+4) Sharpe “annualizado”
+sharpe = sqrt(252) * mean(daily_return) / std(daily_return)
+
+Qué mide (finanzas)
+
+Sharpe ratio ≈ “retorno por unidad de riesgo”.
+
+Retorno: media de retornos diarios de la estrategia.
+
+Riesgo: desviación estándar (volatilidad) de esos retornos diarios.
+
+Si dos estrategias ganan lo mismo, la que lo hace con menos volatilidad tiene mejor Sharpe.
+
+Por qué sqrt(252)
+
+Porque estás usando retornos diarios y quieres una aproximación anual:
+
+La volatilidad escala con raíz del tiempo:
+vol_anual ≈ vol_diaria * sqrt(252)
+
+Para mantener la consistencia, se usa:
+Sharpe_anual ≈ Sharpe_diario * sqrt(252)
+
+252 ≈ número típico de días de trading al año (EEUU).
+
+Por qué ddof=0 y + 1e-12
+
+std(ddof=0) usa desviación estándar “poblacional” (no es crítico aquí).
+
++ 1e-12 evita división por 0 si la estrategia tiene retornos constantes (ej. siempre 0).
+
+Nota importante
+
+El Sharpe “clásico” usa exceso de retorno sobre el risk-free:
+
+(mean(ret - rf)) / std(ret)
+Aquí lo simplificamos asumiendo rf ≈ 0 diario.
+
+Mini ejemplo numérico (para que lo veas en 3 filas)
+
+Supón 3 días:
+
+pos_lag = [1, 0, 1]
+
+ret = [0.01, -0.02, 0.03]
+
+cost = [0.001, 0, 0.001]
+
+Entonces:
+
+strat_ret = [1*0.01-0.001, 0*-0.02-0, 1*0.03-0.001]
+
+strat_ret = [0.009, 0.0, 0.029]
+
+Equity:
+
+factores: 1+strat_ret = [1.009, 1.0, 1.029]
+
+cumprod: [1.009, 1.009, 1.009*1.029=1.038261]
+
+Drawdown:
+
+peak: [1.009, 1.009, 1.038261]
+
+dd: [0, 0, 0] (en este ejemplo nunca cae bajo el peak)
