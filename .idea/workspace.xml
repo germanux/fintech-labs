@@ -7,8 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="Backtest grid search">
+    <list default="true" id="950dbcdf-8ca8-41c3-9932-17757aae2c19" name="Changes" comment="Backtest grpah result">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financial_analysis/munging_visualizing/backtest_ma_crossover.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/financial_analysis/munging_visualizing/backtest_ma_crossover.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/financial_analysis/munging_visualizing/backtest_ma_crossover.py" beforeDir="false" afterPath="$PROJECT_DIR$/financial_analysis/munging_visualizing/backtest_ma_crossover.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +157,7 @@
       <workItem from="1769593864190" duration="2930000" />
       <workItem from="1769597067303" duration="218000" />
       <workItem from="1769597306258" duration="27376000" />
-      <workItem from="1769679062579" duration="2699000" />
+      <workItem from="1769679062579" duration="4017000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Python for Fintech course. Deps and basic files">
       <option name="closed" value="true" />
@@ -277,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769643084044</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Backtest grpah result">
+      <option name="closed" value="true" />
+      <created>1769689446161</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1769689446162</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +329,8 @@
     <MESSAGE value="Get only 2015" />
     <MESSAGE value="Backtest" />
     <MESSAGE value="Backtest grid search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backtest grid search" />
+    <MESSAGE value="Backtest grpah result" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backtest grpah result" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
