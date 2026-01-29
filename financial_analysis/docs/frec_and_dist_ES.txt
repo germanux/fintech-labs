@@ -1,0 +1,28 @@
+En este vídeo, hablaremos de la frecuencia, la frecuencia relativa de los resultados observados, y presentaremos el concepto de distribución. Recordemos que se trata de un juego de dados del último vídeo. La suma es una variable aleatoria, y la impresión muestra los 10 resultados observados. En total, hicimos 50 intentos y obtuvimos 50 resultados de suma. Ahora queremos calcular la frecuencia en esta colección de resultados.
+
+ Existe un método muy útil de Data-Frame llamado recuento de valores, que generará una serie de pandas, que solo tiene una columna si se compara con dataFrame. Su índice es una lista de diferentes resultados y la columna de valores, que es la frecuencia.
+
+
+Pero incluso se pueden ordenar estas series según el índice utilizando el índice de ordenación. Por ejemplo, en nuestra salida, la primera fila dice que la frecuencia de un resultado dos es igual a uno. Podemos representar la frecuencia utilizando un gráfico de barras. Y la frecuencia cambiará a medida que cambie el número de ensayos.
+
+ Si queremos comparar la frecuencia de diferentes ensayos, tenemos que convertir la frecuencia en frecuencia relativa. La frecuencia relativa es igual a la frecuencia dividida por el número de ensayos. Con la frecuencia relativa, la forma del gráfico de barras no cambia.
+
+
+La escala del eje Y cambia. Este es un gráfico de barras que muestra la frecuencia de los resultados de 100 ensayos. A medida que aumentamos el número de ensayos, por ejemplo, comenzamos con 100 ensayos. Este es el que tiene 400 ensayos, aquí 800, 1000 ensayos en este gráfico y 2000 ensayos en este gráfico. El gráfico de barras se aproxima a un límite. La frecuencia relativa se vuelve cada vez más estable a medida que aumenta el número de ensayos. ¿Cuál podría ser el límite si tuviéramos un número infinito de ensayos?
+
+
+
+La distribución de una variable aleatoria es una tabla que consta de dos conjuntos de valores. Uno para los diferentes valores del resultado y otro que enumera la probabilidad de cada valor. Aquí está la tabla de distribución. Podemos calcular todas las probabilidades para X utilizando Python aquí. La distribución X es una tabla de distribución que hemos creado. A partir de esta tabla de distribución, no sabemos inmediatamente la forma del resultado. Por lo general, la media y la varianza son dos características de la distribución de las variables aleatorias.
+
+La media de una variable aleatoria también se denomina esperanza matemática. La parte derecha es una fórmula general para la media y la varianza de una variable aleatoria discreta. Xi aquí es el único resultado posible. Pi aquí es la probabilidad de este resultado. La media es el promedio de todos los resultados ponderados por probabilidades. Lo mismo ocurre con la varianza, que describe la variación del resultado. A la izquierda, hay un Python para calcular la media y la varianza dada la tabla de distribución.
+
+¿Cuál es la distribución de las variables aleatorias continuas? Calcularemos la probabilidad de una variable aleatoria continua. Comenzaremos con la variable aleatoria continua más simple, que tiene una distribución uniforme. Este tipo de variables toma valores posibles con la misma probabilidad en un rango determinado. Aquí está el gráfico de distribución de una variable aleatoria uniforme, que toma valores entre cero y 100 con la misma probabilidad. La altura de la línea roja no es una probabilidad. Representará el valor de una función de densidad, que se aplica para calcular una probabilidad para una variable aleatoria continua de esta manera.
+
+El área bajo la curva de densidad es la probabilidad. Por lo tanto, toda el área entre cero y 100 es igual a uno porque esta variable aleatoria solo puede tomar un valor en este rango. Para calcular la probabilidad de que X tome un valor entre 20 y 60, es equivalente a obtener el área de color rosa. Aquí hay un resumen. Para una variable aleatoria discreta, se puede encontrar fácilmente la probabilidad consultando la tabla de distribución. Es más complicado en el caso continuo.
+
+ Es el área bajo la función de densidad de probabilidad, en resumen, la curva PDF.
+La PDF puede tomar cualquier forma. Hay que tener cuidado y tener en cuenta que la PDF no es probabilidad. Ahora, volvamos a las cuestiones financieras. ¿Por qué necesitamos una variable aleatoria continua? Porque la distribución del rendimiento de los datos bursátiles es continua. Sabemos que el rendimiento real de la distribución bursátil no se puede observar directamente. No es como el juego de los dados.
+
+Pero, ¿tenemos alguna distribución buena que pueda describir el rendimiento de los datos de forma razonablemente buena? En el siguiente vídeo, exploraremos este problema y demostraremos cómo aplicar la variable aleatoria normal, la variable aleatoria continua más popular, para aproximar la distribución del rendimiento bursátil.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
