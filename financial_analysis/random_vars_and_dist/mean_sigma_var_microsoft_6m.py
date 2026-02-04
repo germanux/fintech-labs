@@ -20,6 +20,7 @@ ms = ms.dropna(subset=["LogReturn"])             # Quitamos el primer NaN (y cua
 # pd.Grouper(freq="6MS") = grupos que empiezan cada 6 meses (Month Start): Jan 1, Jul 1, Jan 1, ...
 g = ms.groupby(pd.Grouper(freq="6MS"))["LogReturn"]  # g es un “grupo” de log-returns por semestres
 
+print(g.head())
 # --- Calcular estadísticas por bloque, pero alineadas a cada día del bloque ---
 # transform("mean") pone a cada fila el valor medio de SU bloque
 ms["mu_6m"] = g.transform("mean")       # μ = media de log-return en ese semestre (valor constante por bloque)
