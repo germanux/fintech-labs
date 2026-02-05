@@ -66,6 +66,9 @@ line, = ax.plot([], [], lw=LINE_WIDTH)
 ax.set_xlim(X_MIN, X_MAX)     # xlim: rango mostrado en el eje X
 ax.set_ylim(0, Y_MAX)         # ylim: rango mostrado en el eje Y (densidad siempre >= 0)
 
+# Mostrar varianza
+txt_var = ax.text(0.02, 0.95, "", transform=ax.transAxes, va="top")
+
 
 # =========================
 # MODELO: PDF Normal
@@ -120,6 +123,9 @@ def init():
     mu0 = MU_START
     sigma0 = SIGMA_START
 
+    # Texto varianza
+    txt_var.set_text(f"sigma={sigma0:.3f}   Var=sigma^2={sigma0**2:.3f}")
+
     # Calcula y = f(x) para la normal N(mu0, sigma0^2)
     y0 = pdf(x, mu0, sigma0)
 
@@ -164,7 +170,7 @@ def init():
     ax.set_title(f"mu={mu0:.2f}, sigma={sigma0:.2f} | ±1σ≈0.683, ±2σ≈0.954")
 
     # IMPORTANTE: devolver los "artists" que cambian (especialmente si usaras blit=True).
-    return line, v_mu, v_m1, v_p1, v_m2, v_p2
+    return line, v_mu, v_m1, v_p1, v_m2, v_p2, txt_var
 
 
 def update(frame):
@@ -186,6 +192,9 @@ def update(frame):
     # mu y sigma evolucionan linealmente en el tiempo (configurable con START/END)
     mu = lerp(MU_START, MU_END, t)
     sigma = lerp(SIGMA_START, SIGMA_END, t)
+
+    # Texto varianza
+    txt_var.set_text(f"sigma={sigma:.3f}   Var=sigma^2={sigma**2:.3f}")
 
     # Recalcula la curva
     y = pdf(x, mu, sigma)
@@ -220,7 +229,7 @@ def update(frame):
 
     ax.set_title(f"mu={mu:.2f}, sigma={sigma:.2f} | ±1σ≈0.683, ±2σ≈0.954")
 
-    return line, v_mu, v_m1, v_p1, v_m2, v_p2
+    return line, v_mu, v_m1, v_p1, v_m2, v_p2, txt_var
 
 
 # FuncAnimation crea el "bucle de frames" llamando update(frame)
