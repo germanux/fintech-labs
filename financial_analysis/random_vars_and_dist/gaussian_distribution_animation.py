@@ -57,10 +57,6 @@ x = np.linspace(X_MIN, X_MAX, N_POINTS)
 # La asignación "fig, ax = ..." es asignación múltiple (unpacking) en Python.
 fig, ax = plt.subplots()
 
-# Labels for 68% and 95%
-txt_1 = ax.text(0, 0, "", ha="center", va="bottom")
-txt_2 = ax.text(0, 0, "", ha="center", va="bottom")
-
 # ax.plot(...) devuelve una lista de objetos Line2D (aunque sea una sola línea).
 # "line, = ..." (con coma) hace unpacking del primer (y único) elemento de esa lista.
 # lw=2 significa line width = grosor de la línea.
@@ -167,18 +163,8 @@ def init():
     # Título inicial (informativo)
     ax.set_title(f"mu={mu0:.2f}, sigma={sigma0:.2f} | ±1σ≈0.683, ±2σ≈0.954")
 
-    # Textos para 68% y 95%
-    peak0 = 1 / (sigma0 * np.sqrt(2*np.pi))
-    txt_1.set_position((mu0, 0.60 * peak0))
-    txt_1.set_text("68.3%  (±1σ)")
-
-    txt_2.set_position((mu0, 0.25 * peak0))
-    txt_2.set_text("95.4%  (±2σ)")
-
-
-# IMPORTANTE: devolver los "artists" que cambian (especialmente si usaras blit=True).
-    return line, v_mu, v_m1, v_p1, v_m2, v_p2, txt_1, txt_2
-
+    # IMPORTANTE: devolver los "artists" que cambian (especialmente si usaras blit=True).
+    return line, v_mu, v_m1, v_p1, v_m2, v_p2
 
 
 def update(frame):
@@ -233,16 +219,8 @@ def update(frame):
     # ax.set_ylim(0, 1.2 * peak)
 
     ax.set_title(f"mu={mu:.2f}, sigma={sigma:.2f} | ±1σ≈0.683, ±2σ≈0.954")
-    # Textos 68 y 95%
-    peak = 1 / (sigma * np.sqrt(2*np.pi))
-    txt_1.set_position((mu, 0.60 * peak))
-    txt_1.set_text("68.3%  (±1σ)")
 
-    txt_2.set_position((mu, 0.25 * peak))
-    txt_2.set_text("95.4%  (±2σ)")
-
-    return line, v_mu, v_m1, v_p1, v_m2, v_p2, txt_1, txt_2
-
+    return line, v_mu, v_m1, v_p1, v_m2, v_p2
 
 
 # FuncAnimation crea el "bucle de frames" llamando update(frame)
