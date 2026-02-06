@@ -1,0 +1,297 @@
+Memorando de cierre — Curso “Python & Statistics for Financial Analysis” (Módulo 1) + decisiones técnicas y de portfolio
+0) Contexto y objetivo
+
+Objetivo inicial: replicar ejercicios del curso en entorno local (Windows + venv) y entender el “porqué” de cada paso (pandas + matplotlib + estrategia simple).
+
+Resultado: módulo de introducción completado y examen aprobado; bases asentadas para continuar módulos 2–4 y, después, construir un proyecto propio orientado a FinTech/portfolio.
+
+1) Problemas de entorno y ejecución (lo que fallaba y cómo se resolvió)
+1.1 %matplotlib inline
+
+Qué es: “magic command” de Jupyter/IPython.
+
+Por qué fallaba: lo estabas ejecutando en .py con py script.py (no notebook).
+
+Solución: eliminarlo en scripts y usar plt.show() para mostrar gráficos.
+
+1.2 ModuleNotFoundError: No module named 'pandas'
+
+Causa: el venv activo no tenía dependencias instaladas.
+
+Solución: instalar con pip dentro del venv.
+
+Alternativa correcta: requirements.txt + pip install -r requirements.txt.
+
+Recomendación: mantener requirements.txt mínimo (pandas, matplotlib) y generar freeze cuando tengas el entorno estable.
+
+1.3 KeyError: '2015-01-06' al usar .loc['YYYY-MM-DD']
+
+Causa: el índice del DataFrame era numérico (RangeIndex) y no fechas.
+
+Solución: parsear fecha y asignarla como índice:
+
+pd.read_csv(..., index_col='Date', parse_dates=['Date'])
+
+Consecuencia positiva: habilita slicing temporal (df.loc['2015-01-01':'2015-12-31']).
+
+2) Lectura, transformación y visualización de datos (pandas/matplotlib)
+2.1 Cálculos clave (Microsoft / Facebook)
+
+PriceDiff: diferencia de precio entre mañana y hoy (usando shift(-1)).
+
+Return: retorno relativo (aprox “%”) como PriceDiff / Close.
+
+Direction: binaria 0/1 en función de si PriceDiff > 0.
+
+Medias móviles: rolling(N).mean() con varias ventanas (30/60/120 en MS; 10/50 o 10/30 en FB).
+
+2.2 Visualización: interpretación financiera del gráfico
+
+Close vs medias móviles:
+
+MA corta reacciona más rápido; MA larga suaviza y representa tendencia de fondo.
+
+Cruces (fast > slow) se interpretan como “tendencia alcista” (momentum / trend-following).
+
+Conclusión del ejemplo:
+
+La estrategia gana cuando consigue “estar dentro” durante tramos de subida sostenida.
+
+Sufre en lateralidad/ruido por entradas/salidas.
+
+Sin costes, el backtest es optimista.
+
+2.3 Formato de ejes y layout
+
+figsize=(w,h) en pulgadas.
+
+Formato eje X por meses:
+
+mdates.MonthLocator(interval=2) + DateFormatter('%b-%Y').
+
+Para empezar en febrero: MonthLocator(bymonth=[2,4,6,8,10,12]).
+
+Límites eje Y:
+
+plt.ylim(20, None) o ax.set_ylim(0, None) para forzar mínimos.
+
+Se adoptaron subplots para claridad (precio+MA, retorno, dirección), controlando tamaños relativos con height_ratios.
+
+3) Subplots, twinx() y por qué se veía “solo una serie”
+3.1 twinx()
+
+Qué hace: crea segundo eje Y (derecha) compartiendo el mismo X.
+
+Cuándo usarlo: series con unidades distintas (porcentaje vs dólares, precio vs volumen).
+
+Riesgo: induce confusión visual si no etiquetas/leyendas correctamente.
+
+3.2 Por qué “solo se veía PriceDiff”
+
+Return puede quedar visualmente pegado a 0 por escala (muy pequeño respecto a $).
+
+Solución práctica:
+
+convertir return a porcentaje (Return * 100),
+
+y/o separar series en subplots.
+
+Se corrigió también un error de rotulación (columna Direction mal etiquetada como PriceDiff en una prueba previa).
+
+4) Estrategia simple (baseline) — funcionamiento real (con jerga ES/EN)
+4.1 Qué modela la estrategia de cruce de medias
+
+Fast signal: MA corta (MA10).
+
+Slow signal: MA larga (MA50, luego MA30).
+
+Señal: fast > slow ⇒ tendencia alcista (uptrend).
+
+Posición:
+
+Shares = 1 ⇒ long 1 share (comprado / dentro).
+
+Shares = 0 ⇒ flat (fuera / sin posición).
+
+P&L diario:
+
+Se usa Close1 = Close.shift(-1) para “mañana”.
+
+Profit = Close1 - Close si estás dentro, si no 0.
+
+Esto emula mantener 1 acción de cierre a cierre (simplificación).
+
+4.2 Pregunta tipo test que se revisó
+
+“We short one share if fast > slow” se consideró incorrecto para la estrategia implementada (que es long-or-flat).
+
+Correctas:
+
+fast > slow indica tendencia alcista.
+
+fast = MA corta, slow = MA larga.
+
+5) Python: list comprehension, loc/iloc, where, cumsum
+5.1 List comprehension
+
+Forma compacta de construir una lista recorriendo el índice.
+
+Equivalente a un for con append (expansión se entendió mejor).
+
+5.2 loc vs iloc
+
+loc: acceso por etiqueta de índice (tipo “clave”).
+
+iloc: acceso por posición (tipo “array”).
+
+Confusión resuelta: en tu CSV sin Date como índice, fb.index era numérico, no fecha.
+
+5.3 where(...)
+
+Versión vectorizada del “if-else por fila”.
+
+(Close1 - Close).where(Shares==1, 0) == “si Shares=1 usa diff, si no 0”.
+
+Matiz: el último día suele tener NaN por shift(-1).
+
+5.4 cumsum() y “wealth”
+
+wealth = Profit.cumsum() = P&L acumulado (acumulado en $ si Profit está en $).
+
+Se justificó el uso de -2 para evitar la fila final con NaN; se robusteció con dropna()/fillna() en propuestas.
+
+6) Filtrado por año y error “out-of-bounds”
+
+Se quiso filtrar por 2015.
+
+Error: se filtró por strings antes de indexar por Date ⇒ DF vacío ⇒ iloc[-2] fuera de rango.
+
+Solución: convertir Date a índice antes del slicing temporal.
+
+Se propuso también título robusto (tomar último wealth no-NaN, o 0 si vacío).
+
+7) Parametrización y backtesting masivo (idea evaluada)
+
+Propuesta del usuario: automatizar backtests variando fast/slow y probando en muchos años/tickers.
+
+Evaluación:
+
+Es el paso natural (grid search).
+
+Peligro: overfitting / data snooping.
+
+Para que “valga” de verdad: out-of-sample, walk-forward, y costes.
+
+8) Costes de trading y brokers (conceptos clave)
+
+Componentes del coste real:
+
+comisión explícita,
+
+spread,
+
+slippage,
+
+cambio de divisa (FX),
+
+posibles fees adicionales.
+
+Corrección numérica importante:
+
+1€ sobre 500€ = 0,2% (20 bps), no 2%.
+
+Se discutió que “fee_bps” (basis points) es una aproximación útil en backtests para no autoengañarse.
+
+Aclaración de mercado España:
+
+IBEX 35 es un índice, no “la bolsa”; BME agrupa mercados españoles.
+
+9) JetBrains: AI Actions, agentes y uso de ChatGPT Pro
+
+Se identificó:
+
+“AI Actions” y el panel “AI Chat” como parte del ecosistema AI de JetBrains.
+
+Tres opciones vistas: Codex, Junie by JetBrains, Claude Agent (agentes).
+
+Problema: “No code was generated…”
+
+Se asoció a configuración/flujo de edición (acción vs chat), modo agente, selección de contexto, permisos, o backend.
+
+Sobre “usar licencia ChatGPT PRO”:
+
+Se aclaró que la suscripción de ChatGPT no equivale a API “gratis”; para BYOK necesitas API key con facturación separada, o login soportado por el propio plugin.
+
+10) Estructura de carpetas y “no oler a MOOC”
+
+Problema detectado: nombres/copias del curso y estructura tipo week/module.
+
+Objetivo: mantener claridad sin que parezca un dump de MOOC.
+
+Recomendación final de enfoque:
+
+nombres “de tema” (stock_data_munging_viz, sampling_inference, etc.) o pipeline-style (01_ingest/02_features…),
+
+renombrar notebooks con nombres propios (sin “Create+new+features...”),
+
+opcional prefijo numérico en carpetas (más “pipeline” que “módulo”).
+
+11) Java/C++/Rust en el proyecto propio (evaluación)
+
+Decisión general:
+
+Python para research/backtest rápido.
+
+Java (Spring) si quieres capa “plataforma”: APIs, monitorización, orquestación, estabilidad, operaciones.
+
+C++/Rust si y solo si el cuello de botella es rendimiento real (motor core), tras optimizar en Python (vectorización/numba/paralelismo).
+
+Se enfatizó: el valor de Java aquí no es tanto velocidad de cálculo, sino “producto operable”.
+
+12) Bases de datos para portfolio (con tus conocimientos)
+
+Estado: conoces MySQL/SQLite; Oracle y algo de SQL Server.
+
+Recomendación pragmática:
+
+SQLite para MVP local (logs/órdenes/fills/estado).
+
+MySQL si quieres “server DB” clásico y simple para portfolio.
+
+Postgres aparece mucho en fintech, pero no es imprescindible si SQL ya lo dominas; se puede aprender incrementalmente sin bloquearte.
+
+Se identificó que en ofertas reales a veces “MySQL o PostgreSQL” es indistinto.
+
+13) Lectura de ofertas (JobsInForex) y alineación con tu plan
+
+Se revisaron varias ofertas y se destacó:
+
+Presencia repetida de Python + Java, SQL, testing, CI/CD, contenedores, observabilidad.
+
+Un caso (LMAX) listaba MySQL y además Python/Jupyter/Parquet; otro (PayU) aceptaba MySQL o Postgres.
+
+Conclusión: tu dirección (Python + Java + SQL + testing) encaja con patrones de mercado.
+
+Evaluación final (estado tras 3 días)
+
+Aprendizaje: sólido y real (resolviste entorno, dependencias, indexado temporal, plotting, y entendiste completamente señal→posición→P&L→acumulado).
+
+Punto a vigilar: no eternizar “módulo 1” con detalles estéticos/estructurales; usar timeboxing.
+
+Próximo paso razonable:
+
+continuar módulos 2–4 (estadística/regresión),
+
+y luego rehacer el proyecto como portfolio con:
+
+backtest reproducible,
+
+baseline buy&hold,
+
+costes,
+
+tests,
+
+persistencia (SQLite/MySQL),
+
+y opcional Spring para control/monitorización.

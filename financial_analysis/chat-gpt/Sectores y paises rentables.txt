@@ -1,0 +1,331 @@
+MEMORANDO – CONTEXTO DE CARRERA, OBJETIVOS Y PLAN (2026)
+1. Perfil del usuario
+
+Profesión: Desarrollador senior multipropósito
+Experiencia:
+
+~20 años programando, ~5 años de formación intensiva
+
+Lenguajes y tecnologías:
+
+Java, .NET, C++, Python
+
+JavaScript, Angular, React
+
+SQL (Oracle, MySQL, SQL Server)
+
+Sistemas embebidos
+
+Unity (videojuegos, VR)
+
+Linux, Windows
+
+Azure DevOps (pipelines, no experto)
+
+Ha sido profesor durante ~5 años
+
+Experiencia en:
+
+VR con Unity, Kinect, GPUs
+
+OpenCV + Python
+
+Firmas digitales (DSS, eSign)
+
+Microservicios
+
+Automatización
+
+Proyectos propios y académicos
+
+Idiomas:
+
+Español nativo
+
+Inglés B2 (suficiente para trabajo técnico, no para liderazgo de equipos en inglés)
+
+Situación actual:
+
+Últimos años trabajando para instituciones europeas (CdR, EESC)
+
+Último año facturado ~115K €
+
+Proyecto finalizado por migración tecnológica del cliente
+
+Busca redirigir su carrera hacia algo más rentable y con proyección
+
+Tiene ahorros pero necesita estabilidad (deudas por obras de vivienda)
+
+2. Motivación principal
+
+Alta motivación por:
+
+Libertad financiera
+
+Rentabilidad económica
+
+Sistemas automáticos de inversión
+
+Menor motivación por:
+
+Cloud puro (Azure/AWS le resulta tedioso)
+
+IA hardcore (limitaciones matemáticas)
+
+Blockchain (inestabilidad del sector)
+
+Le interesa:
+
+Usar ML como herramienta, no desarrollar modelos avanzados
+
+FinTech, trading, automatización financiera
+
+3. Experiencia en inversión / trading
+
+Varios años invirtiendo en:
+
+Acciones
+
+Criptomonedas
+
+Oro y plata
+
+Proyectos:
+
+2020: Cliente eToro automatizado con Selenium (Java)
+
+Proyecto Python con alumnos:
+
+Conexión a Interactive Brokers
+
+Descarga de históricos
+
+UI web simple desde backend
+
+Backtesting básico
+
+Experiencia previa con:
+
+Redes neuronales + algoritmos genéticos (Mario AI en Unity)
+
+Actualmente desarrollando proyectos propios en Python relacionados con trading.
+
+4. Decisión estratégica de carrera
+
+Después de analizar sectores (IA, Cloud, HFT, Blockchain, Fullstack, FinTech):
+
+Conclusión:
+
+El camino más coherente con perfil, motivación y retorno económico es:
+👉 FinTech técnico / trading systems / automatización financiera
+
+Motivos:
+
+No parte de cero
+
+Interés personal fuerte
+
+Buen retorno salarial
+
+Posibilidad de remoto
+
+Menor dependencia de matemáticas profundas que ML puro
+
+Mayor alineación con proyectos propios
+
+5. Formación actual
+
+Está realizando cursos de:
+
+Python aplicado a finanzas (Coursera)
+
+Jupyter / pandas / indicadores
+
+Usa Jupyter (entorno online de Coursera)
+
+Aprende:
+
+Importación de datos
+
+Medias móviles
+
+Rolling windows
+
+Plotting
+
+Indicadores básicos
+
+Se resolvieron dudas sobre:
+
+Qué es bid, ask, spread, mid price
+
+Cómo funciona un order book
+
+Market vs limit orders
+
+Flash crash / slippage
+
+Rolling, mean en pandas
+
+Medias rápidas y lentas
+
+6. Estrategia de portfolio técnico
+
+Decisión:
+
+Usar:
+
+✅ GitHub → Portfolio público / escaparate profesional
+
+✅ GitLab → Proyectos privados / experimentos / clientes
+
+Objetivo:
+
+Tener 2–3 repos públicos bien presentados en GitHub.
+
+Repos definidos:
+
+1) fintech-labs
+
+Notebooks Jupyter
+
+Experimentos financieros
+
+Indicadores
+
+Prototipos
+
+Visualización
+
+Documentación clara
+
+2) market-data-pipeline
+
+Mini sistema de ingestión de datos
+
+Descarga
+
+Normalización
+
+Validación
+
+Almacenamiento
+
+CLI
+
+Tests básicos
+
+Simula infraestructura real
+
+3) strategy-backtester
+
+Motor de backtesting simple
+
+Estrategias
+
+Métricas
+
+Fees / slippage
+
+Código limpio
+
+Separar repos mejora claridad y empleabilidad.
+
+7. Migración de repos
+
+Tiene proyectos en:
+
+Azure DevOps
+
+GitLab
+
+Se puede migrar a GitHub conservando fechas reales de commits usando git clone + git push.
+
+Condiciones:
+
+El email de los commits debe estar asociado a la cuenta de GitHub.
+
+No usar ZIP ni copias manuales.
+
+Se recomienda migrar solo:
+
+2–3 repos relevantes y limpios.
+
+8. Reescritura de fechas de commits
+
+El usuario planteó modificar fechas de commits para simular trabajo distribuido.
+
+Conclusión:
+
+Técnicamente posible en Git (reescribir historia).
+
+No recomendable por motivos éticos y profesionales.
+
+Mejor:
+
+Mantener histórico real
+
+O crear repos nuevos con trabajo real incremental
+
+9. LinkedIn
+
+Recomendación:
+
+Activar “Open to work” ya (visible solo a recruiters).
+
+Ajustar headline y about con foco FinTech.
+
+Mejorar perfil en paralelo mientras construye repos.
+
+10. Junior / familiar
+
+Se evaluó si un junior podría trabajar en este sector.
+
+Conclusión:
+
+Sí, pero:
+
+Mejor camino: Fullstack → Python financiero → inglés → FinTech
+
+Diferencia salarial significativa frente a frontend puro.
+
+11. Preferencias personales
+
+Dispuesto a estudiar intensivamente 3–4 meses (4–5h/día).
+
+Interés en remoto.
+
+Preferencia por países:
+
+Irlanda, Alemania, Suiza, Luxemburgo, Canadá, Australia.
+
+No interesado en USA ni Israel.
+
+12. Objetivo final
+
+Reposicionarse como:
+👉 Senior Software Engineer / FinTech / Trading Systems / Data Automation
+
+Mejorar:
+
+Perfil técnico visible
+
+Portfolio
+
+Acceso a mejores ligas salariales
+
+Mantener posibilidad de producto propio.
+
+13. Próximos pasos sugeridos
+
+Crear repo fintech-labs en GitHub.
+
+Subir notebooks del curso con README profesional.
+
+Migrar 1–2 repos relevantes desde Azure/GitLab.
+
+Activar LinkedIn OpenToWork.
+
+Continuar formación técnica aplicada.
+
+Diseñar pipeline de entrevistas progresivo.
