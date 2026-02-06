@@ -66,12 +66,11 @@ axes[0, 0].set_ylabel("Price")
 # (C) Histogram of LogReturn + fitted Normal PDF overlay
 axes[0, 1].hist(ms['LogReturn'].values, bins=50, density=True, alpha=0.7)
 axes[0, 1].plot(x, pdf, linewidth=2)  # Fitted Normal PDF
-axes[0, 1].set_title("LogReturn histogram + fitted Normal PDF")
+axes[0, 1].set_title("LogReturn histogram + fitted Normal PDF. σ = "  + sigma.__str__())
 axes[0, 1].set_xlabel("LogReturn")
 axes[0, 1].set_ylabel("Density")
 
 # (B) Compare SimpleReturn vs LogReturn (time series, zoomed)
-axes[1, 0].plot(ms['SimpleReturn'].values, label="SimpleReturn")
 axes[1, 0].plot(ms['LogReturn'].values, label="LogReturn", alpha=0.8)
 axes[1, 0].set_title("Daily returns (Simple vs Log)")
 axes[1, 0].set_xlabel("Day index")
@@ -79,6 +78,12 @@ axes[1, 0].set_ylabel("Return")
 axes[1, 0].legend()
 
 # (D) CDF of the fitted Normal (helps interpret probabilities)
+
+r = ms["LogReturn"].dropna().to_numpy()
+r_sorted = np.sort(r)
+ecdf = np.arange(1, len(r_sorted)+1) / len(r_sorted)
+axes[1, 1].plot(r_sorted, ecdf, marker='.', linestyle='none', label="Empirical CDF")
+
 axes[1, 1].plot(x, cdf, linewidth=2)
 axes[1, 1].set_title("Fitted Normal CDF  (P(X <= x))")
 axes[1, 1].set_xlabel("x")
@@ -86,3 +91,13 @@ axes[1, 1].set_ylabel("Cumulative probability")
 
 plt.tight_layout()
 plt.show()
+
+p_emp = np.mean(r < -0.05)
+p_norm = norm.cdf(-0.05, loc=mu, scale=sigma)
+print("Daily P(X < -0.05)  empirical:", p_emp, " normal:", p_norm)
+
+mu_a = mu * 252
+sigma_a = sigma * np.sqrt(252)
+
+p_year_norm = norm.cdf(-0.40, loc=mu_a, scale=sigma_a)
+print("Annual approx P(X_year < -0.40) normal:", p_year_norm)
