@@ -1,0 +1,1772 @@
+ChatGPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+76362.jpg
+76361.jpg
+76360.jpg
+No he echado apenas CV, sigo con el curso. Pero tela con la estadística. Me han escrito por Linkedin desde Londres pero la oferta es precisamente Irlanda. Lo primero que he pensado: me he emocionado y a priori me iría.
+
+Hi Germán,
+
+I hope this message finds you well! I noticed your extensive experience as a Senior Fullstack Java/Angular Developer at Comité Europeo de las Regiones. Your skills in Java, Spring Boot, and Angular are impressive.
+
+I wanted to share a full-time on-site opportunity at Photon for a Full Stack Developer (Java + Angular). I think it could be a great fit for you! The role requires skills in Amazon Web Services (AWS) and Java, which align well with your background.
+
+Since you’re open to new opportunities, I’d love to chat more about this position and see if it sparks your interest. Let me know if you’d like to discuss this further!
+
+Best regards,
+Nandini
+
+Nandini Shak
+Senior Director - Talent Acquisition
+www.photon.com
+
+
+Mi posible respuesta:
+
+
+Hi Nandini, 
+
+I find the message absolutely well. The job is of my interest. 
+There are only two points where I didn't match at all, but I will let you know how I can solve it. And I was living in Galway for 5 weeks and I know it is a nice city. 
+
+I can give to the client company my expertise on Spring, Angular, Azure Dev Ops  and related technologies. 
+----
+Todo el contenido, ver fotos.
+
+Llevo días pensando que me iría a Irlanda. También a Panamá para poder trabajar en alguna fintech de allá pero para luego poder ir a Irlanda. 
+
+Es que aquí, aunque disfruto lo que puedo del pueblo este, pero siento que estoy por inversión no como plan de vida. 
+
+Claramente ahora que he visto la oportunidad, me iría.
+
+Parece una señal que justo me hayan escrito para esa ciudad que ya conozco (Cork es por videos y tal pero no la conozco). 
+
+Mira el mapa..busca habitacuones en Galway y en las ciudades contiguas que aparecen en el mapa
+
+76382.jpg
+76381.jpg
+76380.jpg
+
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+https://atlanticlanguage.com/  Estudié en esa academia, 2 ó 3 semanas. En el 2021. No lo he puesto. Dime si merece la pena añadirlo, sobre todo por la parte de estancia en Galway
+
+Thought for 7s
+20/05/2026 19:43:02 CEST
+
+Sí, merece la pena añadirlo, pero no como formación importante. Merece la pena por la señal geográfica: demuestra que ya has estado en Galway, que no hablas de Irlanda desde fantasía, y refuerza tu frase de “I know Galway”.
+
+Tu CV ya tiene una sección de International Experience donde dices “Volunteer experience in Ireland” y experiencia viviendo en Malta, Italy and Panama 
+
+. Ahí es exactamente donde lo metería.
+
+English summary: Add it as Galway/Ireland exposure, not as a major education item.
+
+Cómo lo pondría
+En la sección International Experience, cambiaría esto:
+
+Volunteer experience in Ireland.
+por algo más útil:
+
+English language stay in Galway, Ireland — Atlantic Language School, 2021.
+Volunteer experience in Ireland.
+O mejor, si quieres comprimir:
+
+Ireland: English language stay in Galway at Atlantic Language School (2021) and volunteer experience.
+English summary: Put it under International Experience, compactly.
+
+No lo pondría en Education principal
+No lo metería como curso grande en la línea temporal de educación, porque fueron 2–3 semanas. Si lo pones demasiado visible, puede parecer padding [relleno artificial].
+
+Mejor como dato de contexto:
+
+International Experience
+• Ireland: English language stay in Galway at Atlantic Language School (2021) and volunteer experience.
+• International experience living in Malta, Italy and Panama.
+• Travelled to Belgium for work meetings and technical sessions.
+English summary: Do not overemphasize a short course; use it as context.
+
+Para la oferta de Galway
+Aquí sí te sirve mucho. En mensaje o entrevista puedes decir:
+
+I know Galway, as I spent some time there in 2021 during an English language stay at Atlantic Language School.
+Esto suena natural y creíble. No exagera.
+
+English summary: Mention it in interviews to support your Galway relocation interest.
+
+Mi recomendación final
+Añádelo, pero con esta formulación:
+
+Ireland: English language stay in Galway at Atlantic Language School (2021) and volunteer experience.
+Es la versión más limpia [succinct], porque une:
+
+Galway;
+
+inglés;
+
+Irlanda;
+
+experiencia previa allí;
+
+sin inflarlo.
+
+English summary: Add it briefly; it strengthens relocation credibility without looking inflated.
+
+
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+La chica no me ha respondido. Voy a acplicar con este CV. Revisalo bien
+
+Thought for a few seconds
+21/05/2026 12:39:08 CEST
+
+Sí, puedes aplicar con este CV, pero yo corregiría 4 cosas antes. Hay un fallo claro en la sección de International Experience.
+
+1. Hay una duplicación fea
+En la página 3 aparece:
+
+International Experience
+• International Experience
+
+Eso queda mal. Hay que quitar el bullet repetido. Ahora mismo parece un error de maquetación [layout issue]. 
+
+
+English summary: Remove the duplicated “International Experience” bullet.
+
+Déjalo así:
+
+International Experience
+
+Lived and worked remotely with international teams across Malta, Italy and Spain.
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+Travelled to Belgium and the UK for international experience, work meetings and technical sessions.
+2. La frase de Bélgica + UK está algo rara
+Esta frase:
+
+Travelled to Belgium and the UK for international experience, work meetings and technical sessions.
+Mezcla cosas distintas: Bélgica fue trabajo; UK fue experiencia personal/idioma. Suena un poco borrosa [ambiguous].
+
+Mejor:
+
+Travelled to Belgium for work meetings and technical sessions, and spent time in the UK.
+O más limpia:
+
+Travelled to Belgium for work meetings and technical sessions; additional international exposure in the UK.
+English summary: Separate Belgium work travel from UK exposure.
+
+Mi versión final para esa sección:
+
+International Experience
+
+Lived and worked remotely with international teams across Malta, Italy and Spain.
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+Travelled to Belgium for work meetings and technical sessions; additional international exposure in the UK.
+3. Para Photon/Galway, el CV está razonablemente alineado
+Lo fuerte del CV para esta oferta:
+
+Titular: Senior Software Engineer — Java, Spring Boot, Angular & Python.
+
+Resumen inicial muy alineado con Java/Spring/Angular y backend integration expertise. 
+
+
+Última experiencia: Senior Fullstack Java/Angular Developer, con 4 apps Angular, 2 backends Java/Spring Boot REST API, Azure DevOps pipelines, Docker, Jenkins, Oracle, Redis, Postman/Newman. 
+
+
+Training: has enseñado Java, Spring, Angular, CI/CD, Maven, Jenkins, etc. Eso ayuda si te preguntan por conceptos tipo microservices o arquitectura. 
+
+
+Irlanda/Galway aparece ahora reforzado en página 3. 
+
+
+English summary: The CV matches the Java/Spring/Angular/Galway angle well.
+
+4. Ojo con “English intermediate/B2”
+Poner “English (intermediate/B2)” es aceptable, pero algo contradictorio: B2 ya no suele venderse como “intermediate” sin más, sino como upper-intermediate. En página 1 aparece así. 
+
+
+Mejor:
+
+English (upper-intermediate / B2)
+Spanish (native)
+Si no estás seguro de B2, deja:
+
+English (intermediate to upper-intermediate)
+Spanish (native)
+Para Irlanda, yo pondría upper-intermediate / B2 solo si puedes defenderlo en entrevista.
+
+English summary: “Upper-intermediate / B2” sounds better than “intermediate/B2”.
+
+Dictamen
+Aplica, pero corrige antes:
+
+Quitar el bullet duplicado “International Experience”.
+
+Cambiar la frase de Bélgica/UK.
+
+Valorar cambiar “English intermediate/B2” por “English upper-intermediate / B2”.
+
+Mantener el resto; no tocaría mucho más ahora.
+
+Versión final exacta de la sección:
+
+International Experience
+
+Lived and worked remotely with international teams across Malta, Italy and Spain.
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+Travelled to Belgium for work meetings and technical sessions; additional international exposure in the UK.
+Esto ya está suficientemente bien para aplicar.
+
+
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+Me encanta. Refleja mejor mi trayectoria internacional y me vale para traslado a cualquier país o para remoto
+
+Thought for 12s
+21/05/2026 12:59:13 CEST
+
+Sí. Esta versión ya refleja bastante mejor tu perfil internacional y sirve tanto para relocation como para remote international roles.
+
+La sección ha quedado bien ordenada:
+
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+Travelled to Belgium for work meetings and technical sessions.
+Additional exposure in the UK, Germany and Panama, including informal volunteer work.
+Lived and worked remotely with international teams across Malta, Italy and Spain.
+En la página 3 ya aparece sin la duplicación anterior de “International Experience”, y la estructura queda limpia. 
+
+
+English summary: This version is clearer, broader, and useful for relocation or remote roles.
+
+Mi única corrección fina sería esta frase:
+
+Additional exposure in the UK, Germany and Panama, including informal volunteer work.
+Está bien, pero “including informal volunteer work” puede parecer que aplica a los tres países. Si eso no es exacto, mejor:
+
+Additional exposure in the UK, Germany and Panama, including some informal volunteer work.
+Más flexible [nuanced] y menos rígida.
+
+English summary: “Some informal volunteer work” is safer and more accurate.
+
+Versión final que yo dejaría:
+
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+Travelled to Belgium for work meetings and technical sessions.
+Additional exposure in the UK, Germany and Panama, including some informal volunteer work.
+Lived and worked remotely with international teams across Malta, Italy and Spain.
+Puedes aplicar con este CV. Para la oferta de Galway, el CV ya tiene señales claras: Java/Spring Boot/Angular en página 1, experiencia reciente con EU/Netcompany en página 2, y Galway/Ireland en página 3. 
+
+
+
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+Donde más fácil, barato (incluso gratis) puedo sacarme el B2. O tal vez hacer una prueba para yo poder decir que tengo B2 aunque no sea oficial
+
+Thought for 32s
+21/05/2026 13:12:38 CEST
+
+Sí, puedes decir B2 en CV si tienes una base razonable, pero conviene distinguir tres cosas:
+
+1. Para CV / LinkedIn: EF SET es lo más rápido y gratis
+Haz el EF SET 50-minute test. Es gratuito, online y te da certificado que puedes añadir a LinkedIn/CV. EF lo presenta como un test online gratuito con certificación y evaluación del nivel de inglés. 
+
+Si sacas B2, puedes poner:
+
+English (upper-intermediate / B2 — EF SET)
+O más prudente:
+
+English (upper-intermediate / B2, EF SET)
+English summary: EF SET is the fastest free way to support your B2 claim.
+
+2. Para algo más oficial y barato: Aptis ESOL
+Para España, Aptis ESOL General cuesta 92€ según British Council España, y evalúa de A1 a B2; si rindes por encima de B2 puede darte C1. 
+
+Es probablemente la mejor opción si quieres algo más serio que EF SET, barato y rápido.
+
+Mi recomendación:
+
+Primero EF SET gratis.
+Si sale B2, aplica ya.
+Luego haz Aptis ESOL General por 92€ para respaldarlo mejor.
+English summary: Aptis ESOL is the best cheap official-ish option.
+
+3. Cambridge B2 First: más prestigio, pero más caro y lento
+Cambridge B2 First ronda 218€ en Madrid según la página de exámenes Cambridge Madrid. 
+
+Es más reconocido, pero ahora no lo necesitas para aplicar. Para tu caso, Cambridge tiene peor relación coste/urgencia [cost-benefit].
+
+English summary: Cambridge is stronger but slower and more expensive.
+
+4. LanguageCert B2: válido, pero no es el más barato
+LanguageCert B2 Communicator aparece a €194 para Written + Spoken, o €97 cada parte por separado. 
+
+No lo elegiría ahora salvo que necesites un examen online concreto con certificado formal.
+
+English summary: LanguageCert is valid, but Aptis is cheaper.
+
+Mi ranking para ti
+Opción	Coste	Utilidad para CV	Mi decisión
+EF SET	Gratis	Buena para justificar B2 rápido	Hazlo hoy
+Aptis ESOL General	92€	Mejor respaldo formal barato	Hazlo si EF sale B2
+LanguageCert B2	194€ completo	Formal, online	Segunda opción
+Cambridge B2 First	~218€	Más prestigioso	Solo si lo necesitas a medio plazo
+English summary: EF SET now; Aptis next if you want stronger proof.
+
+Ojo: tienes un typo en el CV
+En tu CV aparece:
+
+English (upper-intermedate/B2)
+Falta una i: debe ser upper-intermediate. Además, visualmente aparece en la sección Languages de la página 1. 
+
+
+Corrige a:
+
+English (upper-intermediate / B2)
+Spanish (native)
+English summary: Fix the typo before applying.
+
+Mi recomendación práctica
+Para aplicar hoy:
+
+Corrige el typo: upper-intermediate.
+
+Haz EF SET cuanto antes.
+
+Si te da B2, mantén English (upper-intermediate / B2).
+
+Si te da B1 alto, cambia a:
+
+English (intermediate to upper-intermediate)
+Si quieres certificar barato, agenda Aptis ESOL General.
+
+No pondría “official B2” salvo que tengas Aptis, Cambridge, LanguageCert, IELTS, TOEFL o equivalente. Con EF SET pondría simplemente B2 — EF SET si quieres ser preciso [precise].
+
+
+Ni le he mandado el CV, ni he aplicado. Al fin me respondió 
+
+78439.jpg
+78438.jpg
+Quiero retomar conversación . Mira que día es hoy. Tengo una oportunidad de un estudio pequeño y barato en Málaga 
+
+Dame un texto para retomar el contacto.
+Ella trabaja para UST Global. Veo que tiene otros puestos activos pero el que me escribió es solution architect. Mira pantallazo y busca en internet a ver en cual o cuáles puedo encajar mejor y me pueden pagar bien, y si puedes incluir los enlaces en el mensaje mejor. 
+
+
+Thought for 5s
+25/05/2026 12:18:43 CEST
+
+Respuesta corta y correcta. No insistas demasiado. Yo mandaría esto:
+
+Hi Alina,
+
+Thank you very much for letting me know.
+
+Of course, I would be happy to stay in touch for future Málaga-based opportunities.
+
+I am also open to 100% remote Java/Spring Boot/Angular roles in Spain, in case you work on similar positions at UST.
+
+Have a nice day too.
+
+Best regards,
+Germán
+
+English sentence summary: Keep the Málaga door open and add remote Java roles without sounding pushy.
+
+No le mandes el CV ahora. Ella no lo ha pedido y acaba de cerrar la conversación. Meter CV ahora sería algo forzado [forced]. Mejor dejarle claro que también estás abierto a remoto y ya está.
+
+
+Bueno, pero la verdad es que no estoy abierto solamente a Málaga, ¿eh? Málaga era bueno, porque justo esta persona me ofrecía por ahí. Claro. O sea, me gusta eso de 100% remoto, también, pero lo puedes abrir un poco más si quieres. ¿Alguno de los puestos que has visto antes era 100% remoto? o ¿cuál de ellos? A ver, tú me has pasado antes... vamos a ver. Veamos. Ah, sí, sí, hay 100% remoto. Senior Java developer with testing experience, proyecto financiero global. Ese puede estar bien. y el otro Java developer 100% remoto, cliente global crédito, banking y savings, pide inglés fluido y Java Jenkins para entorno... Bueno, fluido... No sé hasta qué punto tengo mi inglés fluido. Vale, esos son los que has encontrado tú por tu cuenta, no son los que yo te puse en el pantallazo. O sea, me gustaría decir algo así como que para mí lo principal ahora mismo es conseguir un 100% remoto para España. ponerle un par de enlaces para ver cuáles son los más interesantes. No sé si preguntarle si lo quiere gestionar ella o si directamente aplico yo por mi cuenta, pero que también estoy abierto a otras opciones dentro de Europa. o a lo mejor ser más específico. Busca a ver si ofrecen trabajos en Irlanda o en Bélgica o en Alemania. en Italia, aunque me gusta mucho Italia y podría vivir en Italia. No sé yo si yo puedo encajar así a largo plazo en Italia. Hombre, Sicilia y Cerdeña, buf, sería una pasada, pero me extrañaría que tengan por ahí trabajos así. um sur de España, no sé. O sea, no quiero un mensaje muy largo, pero sí quiero un poco expresar, oye, protégete eso lo que te estoy diciendo de Málaga, sino que para mí lo principal es lo de remoto y qué hacemos.
+
+Thought for 7s
+25/05/2026 12:26:41 CEST
+
+Sí, lo enfocaría así: Málaga ya no es lo principal; fue el motivo para retomar contacto, pero tu prioridad real es 100% remote from Spain. Conviene decirlo sin marearla [rambling].
+
+He verificado que al menos estos puestos de UST son 100% remoto desde España:
+
+Senior Java Developer with testing experience — 100% remote within Spain. Proyecto con cliente global de crédito, préstamos, banca y savings; Java, SDLC, testing, peer review y modelo DevOps. 
+
+Java Developer Senior — 100% REMOTE, Spain. También cliente global financiero, remoto desde España, con inglés fluido para colaboración internacional. 
+
+Senior Java Developer AWS & Testing — 100% remote Spain. Java fuerte, APIs, SOLID, testing, SOA/MSA y AWS; aquí AWS puede ser el punto más débil, pero sigue siendo relevante. 
+
+Yo respondería a Alina con algo breve, metiendo solo 2 enlaces, no 4. Así no parece spam.
+
+Hi Alina,
+
+Thank you very much for letting me know.
+
+Of course, I would be happy to stay in touch for future opportunities. Málaga could be interesting for me now, but my main priority at the moment is finding a 100% remote Java/Spring Boot role from Spain.
+
+I noticed these two UST roles, which seem especially aligned with my background:
+
+Senior Java Developer with testing experience – 100% remote within Spain:
+https://es.linkedin.com/jobs/view/senior-java-developer-with-testing-experience-100%25-remote-within-spain-at-ust-espa%C3%B1a-latam-4371131477
+
+Java Developer Senior – 100% REMOTE, Spain:
+https://es.linkedin.com/jobs/view/java-developer-senior-100%25-remote-spain-at-ust-espa%C3%B1a-latam-4395444542
+
+Would it make sense to discuss any of these through you, or should I apply directly through LinkedIn?
+
+Best regards,
+Germán
+
+Esta versión hace tres cosas bien:
+
+corrige el foco: remote first;
+
+no cierra Málaga;
+
+le da una salida fácil: gestionarlo ella o decirte que apliques tú.
+
+English summary: This message is clear, remote-first, and asks whether she can manage the roles or you should apply directly.
+
+
+Varioas cosas: Por qué dijiste que no pusiera la formacion en Atlantic Galway en la seccion de formacion. El puesto de la reunión del viernes está cerrada así que ya sabemos por qué no se presentó. Alina me ha dicho que directamente aplique a las ofertas
+
+Thought for 18s
+25/05/2026 15:51:46 CEST
+
+Sí, esto aclara bastante.
+
+1. Atlantic Language Galway: por qué no lo puse en Formación
+Porque fue una estancia corta de inglés, no una certificación fuerte ni una formación técnica relevante. En tu CV, la sección de formación ya está muy cargada; meter Atlantic Language School ahí podía parecer relleno [padding].
+
+Pero sí aporta valor como señal de Irlanda/Galway, por eso era mejor en International Experience:
+
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+
+Ahí cumple mejor su función: demostrar que conoces Galway y que Irlanda no es una fantasía.
+
+English summary: Atlantic Galway works better as international exposure than formal education.
+
+2. Lo del viernes con Photon
+Si el puesto está cerrado, entonces encaja: probablemente por eso Nandini no se presentó o dejó morir la llamada. Mal por su parte no avisar, pero no lo tomes como algo personal. Fue una pista [clue] de baja calidad del proceso.
+
+English summary: If the role is closed, the missed call is explained; move on.
+
+Yo no insistiría más con Nandini salvo mensaje muy neutro:
+
+Hi Nandini,
+
+I noticed the role may no longer be active. No problem at all.
+
+Please feel free to keep me in mind for similar Java/Spring Boot/Angular opportunities in Ireland or remote roles within Europe.
+
+Best regards,
+Germán
+
+Pero tampoco es obligatorio mandarlo.
+
+3. Alina te dijo que apliques directamente
+Perfecto. Entonces no le des más vueltas: aplica tú directamente a las ofertas de UST y luego, si quieres, le mandas un mensaje corto diciendo que ya lo has hecho.
+
+Mensaje a Alina:
+
+Hi Alina,
+
+Thank you for the clarification.
+
+I will apply directly to the remote Java roles that best match my background.
+
+Please feel free to keep me in mind for future Java/Spring Boot/Angular opportunities, especially remote roles from Spain or hybrid roles in Málaga.
+
+Best regards,
+Germán
+
+English summary: Apply directly and keep the recruiter relationship open.
+
+4. Prioridad práctica
+Ahora haría esto:
+
+Aplica a los Senior Java / Java Developer 100% remote Spain de UST.
+
+Usa el CV full stack corregido.
+
+No pierdas más tiempo con Photon salvo que reaparezcan.
+
+Mantén a Alina como contacto, no como canal principal.
+
+English summary: UST direct applications are now the concrete action.
+
+
+He postulado para Acerca del empleo
+En Lognext llevamos más de 18 años identificando e implementando soluciones tecnológicas prácticas que nos permitan seguir avanzando y optimicen nuestras operaciones, acompañando a los equipos con talento experto de alto rendimiento y haciendo de la tecnología una fuerza transformadora en nuestro día a día
+
+
+
+Buscamos un Senior Backend-Oriented Fullstack Developer (Java / Cloud / Event-Driven) con talento para incorporarse a nuestro equipo para una multinacional líder en el sector tecnológico.
+
+
+
+🔍¿Qué buscamos?
+
+• Buscamos una persona con +5 años de experiencia en desarrollo software, con foco en backend Java.
+
+• Experiencia sólida en Java / Spring Boot, arquitecturas de microservicios y sistemas distribuidos.
+
+• Experiencia con Kubernetes / Docker para contenerización y despliegue.
+
+• Experiencia con Kafka o sistemas de mensajería / event streaming.
+
+• Conocimiento en diseño, creación y consumo de APIs REST.
+
+• Experiencia con bases de datos SQL (Oracle, MySQL, PostgreSQL, etc.) y NoSQL (MongoDB, etc.).
+
+• Experiencia en entornos CI/CD y prácticas DevOps.
+
+• Familiaridad con testing unitario e integración, y herramientas de calidad y seguridad como Sonar, Snyk, etc.
+
+• Experiencia básica/intermedia en frontend con Angular y JavaScript / TypeScript.
+
+• Capacidad para integrarse con equipos frontend y entender flujos end-to-end.
+
+• Alta autonomía y capacidad de decisión técnica.
+
+• Buen nivel de inglés (mínimo B2).
+
+
+
+🛠️¿Cuáles serán tus principales funciones y responsabilidades?
+
+• Diseñar, implementar y evolucionar soluciones escalables basadas en microservicios.
+
+• Desarrollar servicios backend en Java / Spring Boot en arquitecturas distribuidas y event-driven.
+
+• Participar en la integración y despliegue de soluciones en entornos cloud y contenedorizados con Kubernetes / Docker.
+
+• Diseñar, crear y consumir APIs REST.
+
+• Integrar soluciones con sistemas de mensajería / event streaming como Kafka.
+
+• Colaborar con equipos de frontend, DevOps, producto y operaciones para asegurar flujos end-to-end.
+
+• Trabajar en entornos CI/CD aplicando prácticas DevOps, testing y estándares de calidad y seguridad.
+
+• Contribuir a la escalabilidad, resiliencia y evolución técnica de los servicios.
+
+
+
+🏆¿Qué ofrecemos?
+
+• 💰Salario Competitivo: 50K-55K
+
+• 💼Retribución flexible
+
+• 📚 Programa de formación técnica, certificaciones e idiomas
+
+• 🚀 Plan de Desarrollo Profesional
+
+• ⏰ Flexibilidad horaria
+
+• 🌍 Trabajo en remoto
+
+• 🎉 Eventos de teambuilding y voluntariado
+
+• 🏆 Referral Program
+
+
+
+Únete a un equipo de NEXTERS que van más allá, un equipo donde la creatividad, el ingenio y la audacia marcan la diferencia en un mundo lleno de oportunidades.
+
+
+
+En Lognext apostamos por la igualdad entre mujeres y hombres y prueba de ello tenemos Plan de Igualdad registrado y publicado. Y así mismo, creemos que en la multiculturalidad existe una fuente de valores, experiencias y conocimiento, que aportan valor añadido a nuestros proyectos es por ello por lo que creemos en la diversidad y estamos comprometidos con ella. Trabajamos día a día para crear entornos en los que se trate con respeto y dignidad sin importar de donde vengas, no discriminamos por motivos de raza, religión o creencias, etnia, discapacidad, edad, nacionalidad, estado civil, orientación sexual o género
+
+
+
+#Empleo #Tecnología #Innovación #DesarrolloProfesional #Igualdad #Diversidad #Java #SpringBoot #Backend #Microservicios #Kubernetes #Docker #Kafka #Cloud #DevOps He pedido 55.000 porque es lo máximo que ofrecen. Dime si me conviene enviar un mensaje (a este, o en general) a la recruiter de turno
+
+Thought for 5s
+25/05/2026 16:04:38 CEST
+
+Sí, conviene enviar mensaje, pero solo si tienes identificada a la recruiter o puedes escribir a quien publicó la oferta. Para este puesto, el mensaje tiene sentido porque ya has aplicado y quieres subir visibilidad sin parecer pesado [intrusive].
+
+El salario: pedir 55.000€ está bien. Es remoto, el rango es 50k–55k y tú tienes más experiencia que el mínimo. No pediría menos de entrada.
+
+English summary: Send a short message if you can identify the recruiter; asking for 55k is correct.
+
+Encaje real con la oferta
+Encajas fuerte en:
+
+Java / Spring Boot.
+
+Angular / TypeScript.
+
+REST APIs.
+
+SQL / Oracle / MySQL.
+
+CI/CD / Azure DevOps / Jenkins.
+
+Docker.
+
+Testing / Postman-Newman.
+
+Inglés B2 aproximado.
+
+Autonomía senior.
+
+Puntos más débiles o defendibles:
+
+Kafka/event-driven: si no lo has usado en producción, véndelo como conocimiento y capacidad de adaptación.
+
+Kubernetes: no te vendas como platform engineer.
+
+Microservicios: mejor “modular Java/Spring + REST integrations + understanding of distributed systems”.
+
+English summary: Strong fit overall; Kafka/Kubernetes/microservices should be framed carefully.
+
+Mensaje recomendado al recruiter
+Hi,
+
+I have just applied for the Senior Backend-Oriented Fullstack Developer position at Lognext.
+
+The role looks well aligned with my background, especially Java, Spring Boot, Angular, REST APIs, CI/CD, Docker, testing, cloud-oriented delivery, and international environments.
+
+I have over 19 years of software development experience, including recent work on Java/Spring Boot REST APIs and Angular applications for EU institutions.
+
+I would be happy to discuss the opportunity if my profile fits what you are looking for.
+
+Best regards,
+Germán
+
+Si quieres versión en español
+Hola,
+
+Acabo de inscribirme en la oferta de Senior Backend-Oriented Fullstack Developer en Lognext.
+
+Creo que el puesto encaja bien con mi perfil, especialmente por la parte de Java, Spring Boot, Angular, APIs REST, CI/CD, Docker, testing, cloud-oriented delivery y entornos internacionales.
+
+Cuento con más de 19 años de experiencia en desarrollo software, incluyendo experiencia reciente con APIs REST en Java/Spring Boot y aplicaciones Angular para instituciones europeas.
+
+Quedo a vuestra disposición si consideráis que mi perfil puede encajar.
+
+Un saludo,
+Germán
+
+Yo usaría inglés si la oferta pide B2 y quieres reforzar esa señal. Si la recruiter es española y la publicación está en español, también vale la versión española. Para LinkedIn, me quedo con la inglesa: es más estratégica.
+
+English summary: Use English if you want to reinforce the B2/international angle.
+
+
+Analizamos mi currículum y busca si he añadido microservicios en el currículum, porque yo creo que no. y si debería ponerlo porque joder, sí que impartí varios cursos de microservicios. Entonces, por lo menos añadirlo en Additional Technologies, una línea más y microservicios con algo, alguna tecnología típica de eso. Mirad a ver si está WebFlux, Spring WebFlux, si está añadido, también. y... bueno, al final los microservicios se despliegan como lo más general en Docker. No tiene por qué, pero se usa mucho precisamente Spring Boot para poder crear microservicios.
+
+Thought for 8s
+25/05/2026 16:12:04 CEST
+
+Sí: en tu CV actual no aparece “microservices” ni “microservicios” como keyword explícita. Aparece Spring Boot/MVC, Docker, REST APIs, CI/CD y Spring WebFlux en la parte de formación impartida, pero no aparece la palabra microservices. En el bloque de Technical Trainer sí consta que enseñaste Spring (MVC/Boot/WebFlux), Angular, MEAN stack, Jenkins, Maven y CI/CD. 
+
+
+English summary: Your CV has related technologies, but not the explicit keyword “microservices”.
+
+Lo que ya tienes relacionado
+En el CV ya hay base suficiente para defenderlo:
+
+Spring Boot / Spring MVC en experiencia reciente.
+
+REST APIs.
+
+Docker.
+
+Jenkins / Azure DevOps / CI/CD.
+
+Spring WebFlux en formación impartida.
+
+MEAN stack y backend distribuible.
+
+Teaching & mentoring como skill.
+
+Software architecture como skill. 
+
+
+English summary: You already have the surrounding ecosystem for microservices.
+
+¿Deberías añadir “microservices”?
+Sí, pero con cuidado. No pondría:
+
+Microservices expert
+ni:
+
+Production microservices architecture
+si no lo has llevado en producción de forma clara.
+
+Sí pondría una formulación honesta y útil:
+
+Microservices concepts
+o:
+
+Microservices architecture concepts
+o mejor:
+
+Microservices architecture, Spring WebFlux, REST APIs, Docker
+English summary: Add microservices as conceptual/architecture knowledge, not as deep production ownership.
+
+Dónde lo pondría
+Opción 1 — En “Additional Technologies”
+Esta es la mejor para no sobreprometer [overstate]:
+
+Microservices architecture concepts, Spring WebFlux, REST APIs, Docker, CI/CD
+Pero como REST APIs, Docker y CI/CD ya aparecen, puede quedar redundante. Mejor:
+
+Microservices architecture concepts, Spring WebFlux, event-driven architecture basics
+English summary: Best placement: Additional Technologies, framed as concepts.
+
+Opción 2 — En “Tech taught”
+Aquí sí lo puedes poner con más seguridad, porque impartiste cursos:
+
+Actualmente tienes:
+
+Tech taught: Java, Python, C/C++, C#, .NET, Spring (MVC/Boot/WebFlux), Angular, React, JavaScript...
+Yo lo cambiaría a:
+
+Tech taught: Java, Python, C/C++, C#, .NET, Spring (MVC/Boot/WebFlux), microservices architecture, Angular, React, JavaScript...
+Esta es probablemente la modificación más justa [accurate].
+
+English summary: Add “microservices architecture” to Tech taught because you taught it.
+
+Mi recomendación concreta
+Haz dos cambios mínimos:
+
+1. En Technical Trainer
+Tech taught: Java, Python, C/C++, C#, .NET, Spring (MVC/Boot/WebFlux), microservices architecture, Angular, React, JavaScript, TypeScript, HTML5/CSS3, Bootstrap, MEAN stack (MongoDB, Express, Angular, Node.js), Selenium, Jenkins, Git, SQL, Maven, CI/CD.
+2. En Additional Technologies
+Añade una línea discreta:
+
+Microservices architecture concepts, Spring WebFlux, event-driven architecture basics.
+English summary: Add it once as taught content and once as additional knowledge.
+
+Para la oferta de Lognext
+La oferta pide microservicios, sistemas distribuidos, Kafka/event streaming, Kubernetes/Docker y cloud. Tu CV actual ya cubre Docker, CI/CD, Spring Boot, REST APIs y WebFlux, pero no activa los filtros ATS de “microservices”, “event-driven” ni “Kafka”. Si no has usado Kafka, no metas Kafka como tecnología. Puedes meter:
+
+Event-driven architecture basics
+No:
+
+Kafka
+salvo que hayas hecho prácticas o cursos reales con Kafka.
+
+English summary: Add event-driven concepts, but do not claim Kafka unless you can defend it.
+
+Texto defensivo para entrevista
+Si te preguntan:
+
+Most of my production experience has been with modular Java/Spring applications and REST-based integrations. I have also taught microservices architecture concepts and Spring Boot/WebFlux, so I understand service boundaries, API communication, resilience, deployment concerns and the trade-offs of distributed systems.
+English summary: This is honest and strong enough.
+
+Veredicto
+Sí, añádelo. Para ofertas como Lognext te conviene. Pero la palabra clave correcta es:
+
+microservices architecture
+no “microservices expert”.
+
+Y añadiría también:
+
+event-driven architecture basics
+No pondría Kafka si no puedes defenderlo técnicamente.
+
+
+vale, solamente lo voy a coger, lo voy a añadir una suave vez, text tanto. Creo que no hace falta añadirlo más. O sea, prefiero no repetir, sobre todo pues para poder añadir otra cosa. Y hablando de añadir otra cosa, revisa todo mi currículum y dime si algo tan importante como el microservice, que hasta ahora no me habías dicho que lo añadiera, si lo añado. Mira, te voy a pasar otra oferta que otra oferta que voy a echar ahora mismo, que me interesa un montón. Java Software Engineer (80%-100%) - Bern
+
+ Berna, Berna, Suiza  · hace 8 horas · 63 solicitudes
+
+Promocionado por técnico de selección · Aún no hay información disponible sobre respuestas
+
+En remoto
+Jornada completa
+Solicitud sencilla
+
+Guardar
+Personas con las que puedes hablar
+Conoce al equipo de contratación
+
+
+Hugh Telford 
+
+• 3er
+
+Director of IT Recruitment @CodeCompass 🧭 Connecting IT professionals with opportunities across the DACH and US region
+
+Anunciante del empleo
+
+
+Enviar mensaje
+Acerca del empleo
+🧭 Java Software Engineer – Bern (Medical Technology)
+
+
+
+📍Bern | 💰 CHF 120'000 - CHF 150'000 + Bonus! | 🌍 Remote Working
+
+
+
+A state backed medical company, is seeking an experienced Java Software Engineer to join their team. Specialising in innovative digital health and medical software solutions that support clinicians and improve patient outcomes, our client is committed to advancing healthcare through reliable, scalable technology. They are searching for a skilled Java Software Engineer passionate about:
+
+
+
+Java 21, Java 17, Java 11, Spring Boot 3.3, Spring Framework 6, Spring MVC, Spring WebFlux, Spring Security 6, Hibernate ORM 6, JPA (Jakarta Persistence), GraphQL, REST APIs, SQL Server 2022, PostgreSQL 16, Oracle Database 23c, Azure, AWS, Docker, Kubernetes, Helm, DevOps, CI/CD, Git, Maven, Gradle, React 19, Angular 19, TypeScript 5.7, JavaScript (ES2024+), HTML5, CSS3, Jest 30, JUnit 5, Mockito, Agile, TDD, Programmer, Full Stack Developer, Architect, Java Software Engineer.
+
+
+
+About the Role:
+
+As a Java Software Engineer, you will play a crucial role in developing and enhancing mission-critical medical software platforms. You will collaborate closely with product, clinical, and engineering teams to design secure, high-performance systems.
+
+
+
+➕ Nice to Have:
+
+Experience using Agile methodology
+Strong communication and analytical skills, with a passion for learning and problem-solving
+Hands-on experience with Java, Spring Boot, Spring Framework, Hibernate, cloud platforms, containerised environments, and modern frontend technologies
+Previous exposure to Medical Tech, HealthTech, or regulated environments
+
+
+💪 Benefits:
+
+Remote working options available.
+Comprehensive health insurance coverage.
+Opportunities for professional development and continuous learning within modern Java and cloud technologies.
+
+
+✉️ Due to the high number of applications, we may not be able to respond to everyone, but we truly appreciate the time and effort taken to apply and will be in touch with shortlisted candidates.
+
+
+Beneficios encontrados en el anuncio
+
+Medical insurance
+
+Thought for 32s
+26/05/2026 17:36:15 CEST
+
+Sí: añade microservices una sola vez, suave, y no repitas. Para tu CV actual, lo mejor es meterlo en la línea de Tech taught, porque ahí es defendible: impartiste formación sobre Spring MVC/Boot/WebFlux, Angular, Jenkins, Maven y CI/CD. 
+
+
+1. Línea exacta que añadiría
+Cambia esto:
+
+Spring (MVC/Boot/WebFlux), Angular, React...
+por esto:
+
+Spring (MVC/Boot/WebFlux), microservices architecture, Angular, React...
+English summary: Add “microservices architecture” once, in the training section.
+
+No lo pondría en Additional Technologies si solo quieres una vez. Ahí parecería más experiencia práctica directa. En Tech taught queda más exacto [accurate].
+
+2. Cosas importantes que faltan o están flojas para esta oferta de Berna
+La oferta suiza pide muchas keywords modernas. Tu CV ya cubre bastante: Java, Spring Boot, Spring MVC, Angular, TypeScript, Oracle, SQL, Docker, Jenkins, Azure DevOps, Postman/Newman, REST APIs, Python y entornos regulados UE. 
+
+
+Pero para esta oferta concreta, echo de menos estas keywords:
+
+Keyword oferta	¿Está en tu CV?	Qué haría
+Microservices architecture	No explícito	Añadir una vez en Tech taught
+Spring WebFlux	Sí, en Tech taught	Bien
+Spring Security	No claro	Añadir solo si puedes defenderlo
+Hibernate / JPA	No lo veo explícito	Añadir si lo has usado o enseñado
+JUnit / Mockito / TDD	TDD sí, JUnit/Mockito no	Añadir JUnit/Mockito si los has usado
+Kubernetes / Helm	No	No añadir salvo básico real
+GraphQL	No	No añadir si no lo has usado
+Maven / Gradle	Maven sí en Tech taught; Gradle no	Maven bien; Gradle solo si puedes defenderlo
+Regulated environments	Sí, muy bien	Punto fuerte para Medical Tech
+English summary: Best missing keywords: microservices, Hibernate/JPA, JUnit/Mockito, Spring Security if defensible.
+
+3. Lo más importante para esta oferta suiza
+Esta oferta no es solo Java. El mejor ángulo para ti es:
+
+Java/Spring + Angular + regulated EU environments + secure systems + digital identity/e-signature + cloud delivery.
+
+Esto encaja muy bien con Medical Technology, porque ellos valoran fiabilidad, seguridad, trazabilidad [traceability] y software crítico.
+
+Tu resumen ya dice que has trabajado en sistemas seguros para instituciones UE, con identidad digital y firma electrónica. Eso es muy potente para una empresa médica. 
+
+
+English summary: Your strongest angle is regulated secure software, not only Java.
+
+4. Cambios mínimos que haría antes de aplicar a Berna
+Solo tocaría 3 cosas:
+
+A. Corregir typo urgente
+En el CV aparece:
+
+English (upper-intermedate/B2)
+Debe ser:
+
+English (upper-intermediate / B2)
+Esto es importante. Es un typo feo [glaring typo] en una oferta que pide inglés.
+
+English summary: Fix “upper-intermedate” before applying.
+
+B. Añadir microservices una vez
+Spring (MVC/Boot/WebFlux), microservices architecture, Angular...
+English summary: Add microservices once in Tech taught.
+
+C. Si es verdad, añadir JPA/Hibernate y JUnit/Mockito
+Si los puedes defender, añadiría en Additional Technologies o en la línea de Tech reciente:
+
+JPA/Hibernate, JUnit, Mockito
+Pero solo si es verdad. No metas Kubernetes/Helm/GraphQL si no puedes hablar 5 minutos de ello.
+
+English summary: Add only keywords you can defend in interview.
+
+5. ¿Pediría este salario?
+Sí. La oferta dice CHF 120k–150k + bonus. Para Suiza, no te vendas bajo.
+
+Si te preguntan expectativa:
+
+Considering the advertised range and my senior Java/Spring/Angular background, I would expect something within the stated range, depending on the full package, remote setup and responsibilities.
+Si te piden número:
+
+I would be looking around CHF 130,000–140,000, depending on the final scope and benefits.
+English summary: Anchor inside the advertised range, around CHF 130k–140k.
+
+6. Mensaje corto al recruiter Hugh
+Después de aplicar, sí le escribiría. Esta oferta tiene muchas solicitudes y está promocionada. Necesitas visibilidad.
+
+Hi Hugh,
+
+I have just applied for the Java Software Engineer role in Bern.
+
+The position looks strongly aligned with my background in Java, Spring Boot, Angular, REST APIs, CI/CD, Docker, cloud-oriented delivery, and secure applications in regulated EU environments.
+
+I have over 19 years of software development experience, including recent work on Java/Spring Boot REST APIs and Angular applications involving digital identity and electronic signature workflows.
+
+I would be happy to discuss the opportunity if my profile fits what you are looking for.
+
+Best regards,
+Germán
+
+English summary: This message highlights your regulated-software experience, which is highly relevant for medical technology.
+
+Veredicto
+Aplica con CV corregido. Esta oferta es mejor target que muchas españolas: salario alto, remoto, Java/Spring/Angular, cloud, regulated environment y perfil senior. Tus gaps son Kubernetes/GraphQL/AWS profundo, pero no parecen bloqueantes si vendes bien Java/Spring/Angular + entornos regulados.
+
+
+
+pom.xml
+File
+
+pom.xml
+File
+
+pom.xml
+File
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+Vale, mira, qué cara. Vamos a ver, JUnit, pues claro, había manejado JUnit y Mockito. Mira, JUnit, tanto en formación como en el último trabajo. Madre mía, que no ponerlo. Hibernate y JPA, por supuesto, tanto formación como en el último trabajo. Spring Security, efectivamente, también. En el último trabajo. No mucho, pero sí, efectivamente, tenía Spring Security, pero déjame comprobarlo.Ahí te añado tres ficheros, los tres POM principales, donde vas a ver que están. Vale, Kubernetes, no, no lo he manejado que yo recuerde. o sea, ni siquiera formación. Formación creo que lo impartían otros profesores. Sí he manejado Docker Compose, que quizás conviene añadirlo en el currículum. Maven y Gradle. Gradle... no sé si tengo curso de Gradle. ¿No te he pasado yo antes hace tiempo unos currículos antiguos? Mira a ver si está ahí Gradle. GraphQL, no. Pero vamos, Hibernate, JPA, sí. Vale, y lo de Regulator Environment, sí, pero comprueba que esté puesto explícito así en el currículum. He añadido todo eso, o debería haberlo hecho, al CV. He tenido que remaquetar un poco así que revisa a nivel ATS, a nivel texto y a nivel maquetación. Y revisa los POMS por si falta algo interesante en general.
+
+Thought for 1m 2s
+26/05/2026 17:55:08 CEST
+
+He revisado el CV nuevo y el POM accesible. Conclusión: has mejorado bastante el CV para ATS, pero hay 3 correcciones urgentes y 2 matices técnicos.
+
+1. CV: ahora sí aparecen las keywords importantes
+Ahora el CV incluye explícitamente en la última experiencia:
+
+Spring Data, Hibernate, Angular, Docker Compose, JUnit, Spring Security, Maven
+y en formación:
+
+Spring (Data/MVC/Boot/WebFlux), JUnit, Mockito, microservices architecture
+Esto está bien. Ya no falta lo gordo para ofertas Java/Spring modernas. Además, “regulated environment” sí aparece en el resumen y en la primera bullet de Netcompany, así que para medical/healthtech está bien cubierto. 
+
+
+English summary: The important Java/Spring/testing/security keywords are now present.
+
+2. Error urgente: “upper-intermedate”
+Sigue mal escrito:
+
+English (upper-intermedate / B2)
+Debe ser:
+
+English (upper-intermediate / B2)
+Esto hay que corregirlo antes de aplicar a Suiza. Es un typo [errata] visible en página 1, justo en idiomas. 
+
+
+English summary: Fix the English-level typo immediately.
+
+3. “Panamá” en CV inglés
+En inglés, mejor sin tilde:
+
+Panama
+No es grave, pero en un CV en inglés queda más natural. En la página 3 aparece “Panamá”. 
+
+
+English summary: Use “Panama” instead of “Panamá” in the English CV.
+
+4. JPA está algo flojo en la experiencia reciente
+Tienes Hibernate en la experiencia reciente y JPA en Athagon. Eso es defendible, pero para la oferta suiza, que menciona Hibernate ORM y JPA/Jakarta Persistence, yo pondría en la última experiencia:
+
+Spring Data/JPA, Hibernate
+en vez de:
+
+Spring Data, Hibernate
+Quedaría:
+
+Tech: Java, Spring Boot/MVC, Spring Data/JPA, Hibernate, Angular...
+No es mentira si lo usaste. Y es una keyword ATS clara.
+
+English summary: Add “JPA” next to Spring Data/Hibernate in the recent role.
+
+5. POM: solo he podido ver uno
+Aunque dices que subiste tres POM, en el sandbox solo me aparece un pom.xml accesible; parece que se han pisado por tener el mismo nombre. El que puedo leer es:
+
+artifactId: sam-rest-security
+description: SAM Swagger
+Ese POM confirma cosas útiles:
+
+proyecto Maven;
+
+módulo sam-rest-security;
+
+generación Swagger con swagger-codegen-maven-plugin;
+
+JAX-RS / RESTEasy generation;
+
+Java 8 date library;
+
+Bean Validation;
+
+módulo REST/security;
+
+dependencia de javax.servlet-api;
+
+dependencia interna sam-rest-common;
+
+dependencia interna core-rest-swagger;
+
+dependencia interna sam-rest-admin;
+
+dependencia de test interna java-core.test.
+
+English summary: The visible POM confirms Maven, Swagger code generation, REST/security module, servlet API and internal test dependencies.
+
+Pero este POM no confirma directamente Hibernate, JPA, JUnit, Mockito o Spring Security, porque parece un módulo de Swagger/security que hereda del parent sam. Para validar eso tendría que ver el POM padre y/o los módulos backend reales con nombres distintos.
+
+English summary: The visible POM does not prove Hibernate/JPA/JUnit/Mockito directly because it is a specific Swagger/security module.
+
+6. Qué añadiría desde el POM al CV
+Ya tienes casi todo. Lo único interesante que no veo reflejado claramente es Swagger/OpenAPI.
+
+La oferta suiza pide REST APIs; Swagger/OpenAPI suma bastante. Yo añadiría OpenAPI/Swagger en una sola zona, probablemente en la experiencia reciente:
+
+Tech: Java, Spring Boot/MVC, Spring Data/JPA, Hibernate, Angular, PrimeNG, TypeScript, Python, Oracle, SQL, Redis, REST APIs, OpenAPI/Swagger, UI/UX, HTML5/CSS3, Tailwind CSS, Docker, Docker Compose, Jenkins, GNU/Linux, Azure DevOps, Postman/Newman, JUnit, Spring Security, Maven, AI-assisted tools.
+Es largo, pero ATS-friendly [favorable para filtros automáticos].
+
+English summary: Add OpenAPI/Swagger because the POM clearly supports it and it strengthens REST API positioning.
+
+7. No añadiría esto
+No añadiría:
+
+Kubernetes.
+
+Helm.
+
+GraphQL.
+
+Kafka.
+
+Gradle, salvo que encuentres prueba clara o lo puedas defender.
+
+He buscado en File Library por CVs antiguos con Gradle y no me salió nada. Así que, de momento, no pondría Gradle.
+
+English summary: Do not add Kubernetes, Helm, GraphQL, Kafka or Gradle unless you can defend them.
+
+8. Revisión visual/maquetación
+La página 2 está más cargada, pero sigue legible. El bloque de tecnologías de Netcompany está al límite: mucha keyword junta, pero para ATS compensa. La página 3 queda limpia.
+
+El problema visual principal es el error de idioma y algunos textos comprimidos, pero no lo veo roto.
+
+English summary: Layout is acceptable; page 2 is dense but still usable.
+
+9. Versión concreta de cambios mínimos
+Haz estos 4 cambios:
+
+English (upper-intermediate / B2)
+Spring Data/JPA, Hibernate
+REST APIs, OpenAPI/Swagger
+Panama
+Y dejaría “microservices architecture” solo en Tech taught, como lo tienes ahora. Eso está perfecto: no sobrepromete [overstates] producción, pero activa la keyword.
+
+English summary: Four fixes: English typo, JPA, OpenAPI/Swagger, Panama.
+
+Veredicto
+Para la oferta de Berna/Suiza, tu CV queda bastante bien si corriges eso. Tu mejor narrativa es:
+
+Senior Java/Spring/Angular developer with regulated EU experience, secure digital identity/e-signature systems, REST APIs, CI/CD, Docker, testing, Spring Security, Hibernate/JPA and international remote delivery.
+Eso encaja mucho mejor que intentar vender Kubernetes o GraphQL que no tienes.
+
+
+
+pom - Copy.xml
+File
+
+pom.xml
+File
+
+pom - Copy (2).xml
+File
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+Joder, si te fijas en los POMs...Si te fijas en los POMS, yo sí que llegué a hacer una una migración a Jakarta. que no es poco, ya me tuve que pelear bastante. Estuve semanas con esa mierda. fue la migración de JPA. O sea, de Spring, sí, una migración a Spring 6, creo que fue, de hecho. Entonces, eh... Si usé Jakarta, si usé JAX-RS, efectivamente, Swagger, Swagger no está incluido en el currículum, creo. Vale, ahora ahora te paso los POMs, todos los POMs. Ah, y OpenAPI, claro. Revisa todo de nuevo que he añadido muchas cosas. 
+
+Thought for 30s
+26/05/2026 18:03:22 CEST
+
+Sí, tienes razón: la migración a Jakarta / Spring 6 es mucho más relevante de lo que parecía al principio. Con los POMs completos ya se ve mejor.
+
+Lo que confirman los POMs
+En el POM principal de java-core aparece claramente:
+
+Spring Boot 3.3.4, lo que implica ecosistema Spring moderno / Spring 6.
+
+Jakarta Persistence API 3.1.0.
+
+Jakarta Servlet API.
+
+Hibernate Core 6.x.
+
+Hibernate Validator.
+
+Swagger/OpenAPI Jakarta: swagger-jaxrs2-jakarta, swagger-integration-jakarta, swagger-models-jakarta.
+
+Jersey / JAX-RS.
+
+JUnit.
+
+Maven Surefire / Failsafe.
+
+OWASP dependency-check-maven.
+
+Checkstyle.
+
+Azure DevOps Maven repositories.
+
+Eso ya no es “solo he visto Swagger”. Es una migración técnica seria hacia Spring Boot 3 / Spring 6 / Jakarta / Hibernate 6 / OpenAPI-Jakarta.
+
+English summary: The POMs support a real Spring/Jakarta migration story, not just ordinary maintenance.
+
+CV actual: está bastante mejor
+Ahora el CV ya incluye:
+
+Spring Boot/MVC/Security, Spring Data/JPA, Hibernate, Docker Compose, JUnit, Swagger/OpenAPI, Maven
+en tu experiencia reciente. También incluye regulated environment en el resumen y en la experiencia de Netcompany, lo cual es bueno para medical/healthtech. 
+
+
+Además, en formación ya aparece:
+
+Spring (Data/MVC/Boot/WebFlux), JUnit, Mockito, microservices architecture
+Eso está bien colocado: no sobrevende microservicios en producción, pero activa la keyword. 
+
+
+English summary: The CV now covers the main ATS keywords much better.
+
+Pero falta una keyword importante: Jakarta migration
+Para la oferta de Suiza, yo añadiría una mención explícita a la migración, porque es diferencial [distinguishing]. No lo escondería solo en “Jakarta” dentro de Additional Technologies.
+
+Tu primera experiencia debería decir algo así en una bullet. Cambiaría esta:
+
+Maintained 2 Java/Spring Boot REST API backend applications, and implemented Azure DevOps build/deployment pipelines for frontend and backend applications.
+por esta:
+
+Maintained 2 Java/Spring Boot REST API backend applications, contributed to a Spring 6 / Jakarta / Hibernate migration, and implemented Azure DevOps build/deployment pipelines for frontend and backend applications.
+English summary: Add the Spring 6 / Jakarta / Hibernate migration directly in the recent experience.
+
+Si te cabe, mejor todavía:
+
+Maintained 2 Java/Spring Boot REST API backend applications, contributed to a Spring 6 / Jakarta / Hibernate migration, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+Pero puede ser demasiado largo para tu maquetación.
+
+Additional Technologies
+Ahora has añadido:
+
+Jakarta, JAX-RS, Servlet API
+en Additional Technologies. Está bien, pero yo lo ajustaría a:
+
+Jakarta EE, JAX-RS, Servlet API
+O incluso:
+
+Jakarta EE, JAX-RS, OpenAPI/Swagger, Servlet API
+Pero como OpenAPI/Swagger ya está en la experiencia reciente, no hace falta repetir.
+
+English summary: Use “Jakarta EE” rather than just “Jakarta”.
+
+Cosas que no añadiría
+No añadas:
+
+Kubernetes.
+
+Helm.
+
+GraphQL.
+
+Kafka.
+
+Gradle, salvo prueba clara.
+
+Aunque la oferta los mencione, meterlos sin base te puede perjudicar en entrevista.
+
+English summary: Do not add keywords you cannot defend.
+
+Revisión ATS
+Para ATS ahora estás bien en:
+
+Java.
+
+Spring Boot.
+
+Spring MVC.
+
+Spring Security.
+
+Spring Data/JPA.
+
+Hibernate.
+
+Angular.
+
+TypeScript.
+
+REST APIs.
+
+Swagger/OpenAPI.
+
+Docker Compose.
+
+Jenkins.
+
+Azure DevOps.
+
+JUnit.
+
+Mockito.
+
+Microservices architecture.
+
+CI/CD.
+
+Regulated environment.
+
+Jakarta EE / JAX-RS / Servlet API.
+
+Te faltan frente a la oferta suiza:
+
+Java 17/21 explícito.
+
+Spring Boot 3 / Spring Framework 6 explícito.
+
+Hibernate 6 explícito.
+
+PostgreSQL / SQL Server si los has usado poco.
+
+AWS/Azure nivel cloud real.
+
+Kubernetes/Helm.
+
+GraphQL.
+
+React 19.
+
+Pero no todo tiene que estar. Tu match fuerte es suficientemente claro.
+
+English summary: The CV now matches strongly on Java/Spring/Angular/regulatory/API/testing keywords.
+
+Revisión visual
+Página 2 está muy densa, pero aceptable. El bloque de tecnologías de Netcompany es largo, pero para una oferta como Berna compensa porque activa muchos filtros. Página 1 ya corrigió upper-intermediate, bien. Página 3 queda correcta y “Panama” ya está sin tilde. 
+
+
+English summary: Layout is dense but acceptable; the key typo is fixed.
+
+Cambio mínimo recomendado antes de aplicar a Berna
+Haz solo estos dos cambios:
+
+Jakarta, JAX-RS, Servlet API
+por:
+
+Jakarta EE, JAX-RS, Servlet API
+Y añade en la bullet reciente:
+
+contributed to a Spring 6 / Jakarta / Hibernate migration
+Versión final de la bullet:
+
+Maintained 2 Java/Spring Boot REST API backend applications, contributed to a Spring 6 / Jakarta / Hibernate migration, and implemented Azure DevOps build/deployment pipelines for frontend and backend applications.
+English summary: Add the migration as a concrete achievement; it is worth showing.
+
+Veredicto
+Con esa modificación, tu CV queda claramente mejor para Suiza. La migración Spring 6 / Jakarta / Hibernate es una señal senior real: no es una keyword ornamental [decorative], es experiencia de mantenimiento evolutivo complejo.
+
+
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+Claro, lo que pasa es que respecto a las versiones, ¿cómo versiones? Bueno, Spring 6, vale, pero... O sea, al final, sí, sí me cabe, porque al final voy a añadir una línea entera y sí, sí cabe la maquetación. Java... O sea, Java he trabajado con un montón de versiones, desde la 7, la Java 6, o sea, yo estoy certificado en Java 6. He trabajado con la 7, con la 8, con la 11 y con la 17. y no sé si la 21. Hay que poner versiones también. Y OWASP merece la pena meterlo?
+
+Thought for 11s
+26/05/2026 18:14:30 CEST
+
+Sí, conviene poner versiones, pero de forma selectiva. No hagas una lista histórica tipo Java 6/7/8/11/17 porque te envejece el perfil. Para ofertas modernas como la de Berna, interesa enseñar que puedes trabajar con stack actual.
+
+1. Java versions
+Yo pondría esto en la línea técnica reciente:
+
+Java 8/11/17
+No pondría Java 6/7 ahí. La certificación Java 6 ya aparece en Educación, suficiente. 
+
+
+Si no estás seguro de Java 21, no lo pongas. Puedes decir en entrevista:
+
+I have professional experience with Java 8, 11 and 17, and I am comfortable ramping up on Java 21.
+English summary: Mention Java 8/11/17, not old versions or uncertain Java 21.
+
+2. Spring versions
+Esto sí lo has hecho bien. La bullet actual dice:
+
+contributed to a Spring 6 / Jakarta / Hibernate migration, including JPA and API compatibility updates
+Es una frase fuerte y defendible. Déjala. 
+
+
+En la línea Tech puedes afinar:
+
+Java 8/11/17, Spring Boot/MVC/Security, Spring 6, Spring Data/JPA, Hibernate
+Pero no repetiría Spring 6 si ya está en la bullet. Mejor no saturar [overcrowd].
+
+English summary: Keep Spring 6 in the migration bullet; do not over-repeat it.
+
+3. Hibernate / Jakarta versions
+No pondría “Hibernate 6” salvo que quieras hilar muy fino para Suiza. Ya dices:
+
+Spring 6 / Jakarta / Hibernate migration
+Eso basta. Si quieres optimizar ATS para la oferta suiza, podrías cambiarlo a:
+
+Spring 6 / Jakarta / Hibernate 6 migration
+Pero solo si estás seguro por los POMs. Si lo estás, adelante. Es buena keyword.
+
+English summary: Add Hibernate 6 only if you are sure.
+
+4. OWASP
+Sí, OWASP merece la pena, pero no como tecnología principal. Es más una señal de seguridad/calidad. Para ofertas médicas, reguladas o fintech suma.
+
+No pondría:
+
+OWASP expert
+Pondría algo más sobrio:
+
+OWASP Dependency-Check
+o:
+
+OWASP Dependency-Check, Sonar
+Tienes Sonar en Additional Technologies, pero no OWASP. 
+
+
+Dónde meterlo:
+
+Mejor opción
+En la línea Tech de Netcompany, al final:
+
+JUnit, Swagger/OpenAPI, Maven, OWASP Dependency-Check, AI-assisted tools.
+Pero esa línea ya está cargada.
+
+Opción más limpia
+En Additional Technologies:
+
+OWASP Dependency-Check, Sonar, Jakarta EE, JAX-RS, Servlet API
+Yo prefiero esta. No recarga la experiencia reciente y mete keyword útil.
+
+English summary: Add OWASP Dependency-Check in Additional Technologies, not as a main skill.
+
+5. Cambio exacto recomendado
+Tu línea actual de Netcompany:
+
+Tech: Java, Spring Boot/MVC/Security, Spring Data/JPA, Hibernate, Angular, PrimeNG, TypeScript, Python, Oracle, SQL, Redis, UI/UX, HTML5/CSS3, Tailwind CSS, Docker Compose, Jenkins, GNU/Linux, Azure DevOps, Postman/Newman, JUnit, Swagger/OpenAPI, Maven, AI-assisted tools.
+Yo la dejaría así:
+
+Tech: Java 8/11/17, Spring Boot/MVC/Security, Spring Data/JPA, Hibernate, Angular, PrimeNG, TypeScript, Python, Oracle, SQL, Redis, UI/UX, HTML5/CSS3, Tailwind CSS, Docker Compose, Jenkins, GNU/Linux, Azure DevOps, Postman/Newman, JUnit, Swagger/OpenAPI, Maven, AI-assisted tools.
+Y en Additional Technologies cambiaría el inicio a:
+
+OWASP Dependency-Check, Sonar, Jakarta EE, JAX-RS, Servlet API,
+English summary: Add Java 8/11/17 in recent tech; add OWASP Dependency-Check in Additional Technologies.
+
+Veredicto
+Haz estos dos cambios:
+
+Java → Java 8/11/17 en la experiencia reciente.
+
+OWASP Dependency-Check en Additional Technologies, junto a Sonar/Jakarta.
+
+No metas Java 6/7 en experiencia reciente. No metas Java 21 si no lo has usado. No sobrecargues más la bullet de migración; ya está bastante bien.
+
+
+Nada, como me rompe la maquetación, lo he añadido en Additional Technologies. Sí, que tengo sonar, pero no WASP. Ahí lo he puesto. He puesto solamente WASP. Depende del CSS, es que no sé si me cabe.En en Tets, en Tets, enseño full stack developer y ya está súper cargado, no me cabe lo de Java 7, Java 8 y tal. pero sí me cabría añadirlo en la migración, o sea, donde se explica la migración. Y no digas que yo he contribuido a esa migración, es que yo la hice, de estas dos aplicaciones. Fui yo el que la hice. No contribuí, no contribuí, es verdad que me lo mandaron, pero pero lo hice yo, toda. joder, me tiré más de un mes para hacer la puta migración. 
+
+Thought for a few seconds
+26/05/2026 18:21:46 CEST
+
+Correcto: si la migración la hiciste tú, no pongas contributed to. Eso te rebaja. Hay que ponerlo como responsabilidad directa.
+
+1. No pongas “WASP”
+Debe ser:
+
+OWASP
+o mejor:
+
+OWASP Dependency-Check
+WASP está mal. OWASP es el acrónimo correcto: Open Worldwide Application Security Project. Si solo te cabe una palabra, pon OWASP, pero si puedes, mejor OWASP Dependency-Check.
+
+English summary: Use “OWASP”, not “WASP”; “OWASP Dependency-Check” is better.
+
+2. Frase correcta para la migración
+Tu frase actual debería pasar de algo tipo:
+
+contributed to a Spring 6 / Jakarta / Hibernate migration
+a:
+
+Migrated 2 Java/Spring Boot REST API backend applications to Spring 6 / Jakarta / Hibernate, including JPA and API compatibility updates.
+Esta es la mejor versión. Clara, fuerte y no exagera.
+
+English summary: Say you migrated the two applications yourself.
+
+3. Si quieres incluir versiones Java ahí
+Si no te cabe en la línea de tecnologías, puedes meterlo en la misma bullet:
+
+Migrated 2 Java/Spring Boot REST API backend applications to Spring 6 / Jakarta / Hibernate, including Java 8/11/17, JPA and API compatibility updates.
+Pero no me gusta tanto, porque Java 8/11/17 queda algo metido con calzador [shoehorned].
+
+Mejor:
+
+Migrated 2 Java/Spring Boot REST API backend applications to Spring 6 / Jakarta / Hibernate, including JPA and API compatibility updates.
+Y las versiones Java las dejas fuera si rompen maquetación.
+
+English summary: Do not force Java versions if they hurt readability.
+
+4. Versión final recomendada de la bullet
+Yo dejaría esta:
+
+Maintained 2 Java/Spring Boot REST API backend applications, migrated them to Spring 6 / Jakarta / Hibernate, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+Es fuerte y compacta.
+
+Si quieres todavía más directa:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications to Spring 6 / Jakarta / Hibernate, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+Esta segunda me gusta más para CV.
+
+English summary: “Maintained and migrated” is the cleanest wording.
+
+5. Veredicto
+Haz esto:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications to Spring 6 / Jakarta / Hibernate, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+Y en Additional Technologies:
+
+OWASP Dependency-Check, Sonar, Jakarta EE, JAX-RS, Servlet API
+Si no cabe:
+
+OWASP, Sonar, Jakarta EE, JAX-RS, Servlet API
+Pero no WASP.
+
+
+a ver, a esto le caben tres palabras, lo que ocupa API Compatibility Updates, básicamente. Entonces, tal vez podamos poner maintained to Java Spring Boot REST API Backend applications migrated from, tal vez se pueda poner una migración desde hasta y ahí sí que encajarían las versiones, ¿no?  Texto actual: Maintained 2 Java/Spring Boot REST API backend applications, contributed to a Spring 6 / Jakarta / Hibernate migration, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+
+Thought for 8s
+26/05/2026 18:25:40 CEST
+
+Sí. Si te caben unas pocas palabras, lo mejor es sustituir “contributed to” por “migrated” y meter el origen/destino sin alargar demasiado.
+
+Tu frase actual:
+
+Maintained 2 Java/Spring Boot REST API backend applications, contributed to a Spring 6 / Jakarta / Hibernate migration, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+Yo la cambiaría por esta:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Spring 6 / Jakarta / Hibernate, and implemented Azure DevOps build/deployment pipelines.
+English summary: This is stronger, shorter, and includes the migration direction.
+
+Si quieres incluir Java 17 también:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Java 17, Spring 6 / Jakarta / Hibernate, and implemented Azure DevOps build/deployment pipelines.
+English summary: Use this only if Java 17 was actually part of the migration target.
+
+Mi favorita:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Spring 6 / Jakarta / Hibernate, and implemented Azure DevOps build/deployment pipelines.
+Es más limpia. “Spring 6 / Jakarta / Hibernate” ya implica modernización fuerte, y no necesitas poner “JPA and API compatibility updates” si no cabe. Lo puedes defender en entrevista.
+
+English summary: Drop “JPA and API compatibility updates” if space is tight; the migration phrase already implies it.
+
+Otra opción más técnica:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications to Spring 6 / Jakarta / Hibernate, handling JPA and API compatibility updates.
+Pero aquí no caben versiones Java.
+
+English summary: This version is technically precise but does not include Java versions.
+
+Veredicto: usa esta:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Spring 6 / Jakarta / Hibernate, and implemented Azure DevOps build/deployment pipelines.
+
+
+Curriculum_German_Caballero_2026_EN-fullstack.pdf
+PDF
+Pero sí cabe: Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Java 17, Spring 6 / Jakarta / Hibernate,  including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines. Queda justita pero bien. 
+
+Thought for 4s
+26/05/2026 18:30:42 CEST
+
+Sí, esa versión queda bien. Es fuerte, concreta y defendible:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Java 17, Spring 6 / Jakarta / Hibernate, including JPA and API compatibility updates, and implemented Azure DevOps build/deployment pipelines.
+
+En el CV ya aparece así en la experiencia de Netcompany y se lee correctamente en página 2. 
+
+
+English summary: The migration sentence is strong, precise, and worth keeping.
+
+Dos matices:
+
+“from Java 8/11 to Java 17” está bien si realmente había componentes en Java 8 y/o Java 11 y el destino fue Java 17. No hace falta explicar más en CV.
+
+“Spring 6 / Jakarta / Hibernate” está bien, aunque si quieres máxima precisión técnica, podrías poner Hibernate 6. Pero si eso te rompe la maquetación, déjalo como está.
+
+English summary: Keep the current wording unless you can safely add “Hibernate 6”.
+
+Sobre OWASP, ahora en Additional Technologies aparece:
+
+Jakarta EE, JAX-RS, Servlet API, OWASP, AngularJS...
+
+Está aceptable. Si algún día te cabe, mejor OWASP Dependency-Check, pero OWASP es suficiente para no romper diseño. 
+
+
+English summary: “OWASP” is acceptable; “OWASP Dependency-Check” would be better but not mandatory.
+
+Veredicto: aplicaría ya con este CV. Para la oferta de Suiza, el CV ahora comunica bastante mejor:
+
+Java/Spring/Angular senior.
+
+Migración moderna Java 17 / Spring 6 / Jakarta.
+
+JPA/Hibernate.
+
+REST APIs + Swagger/OpenAPI.
+
+Spring Security.
+
+CI/CD + Azure DevOps.
+
+Regulated environment.
+
+Inglés B2.
+
+Experiencia internacional.
+
+English summary: The CV is now well aligned for the Bern Java role.
+
+
+Thought for 21s
+26/05/2026 18:36:02 CEST
+
+He revisado los 3 POMs: no aparece Java 21.
+
+Resultado:
+
+pom.xml: maven-compiler-plugin con <release>17</release>.
+
+pom - Copy.xml: maven-compiler-plugin con <release>17</release>.
+
+pom - Copy (2).xml: maven-compiler-plugin con <source>10</source> y <target>10</target>.
+
+Conclusión: sí, era Java 17 en los POMs modernos, no Java 21. Uno de los POMs antiguos apunta a Java 10.
+
+Tu frase del CV está bien si el destino real fue Java 17:
+
+Maintained and migrated 2 Java/Spring Boot REST API backend applications from Java 8/11 to Java 17, Spring 6 / Jakarta / Hibernate...
+No pondría Java 21.
+
+
+Thought for a couple of seconds
+26/05/2026 18:38:41 CEST
+
+Sí, puedes poner Suiza, pero con cuidado. Dos o tres semanas trabajando desde allí cuentan como international remote work exposure, no como “lived in Switzerland” ni “worked in Switzerland” de forma fuerte.
+
+No lo pongas en la experiencia laboral principal. Mételo en International Experience.
+
+Versión recomendada:
+
+Additional exposure in Switzerland, the UK, Germany and Panama.
+O, mejor para tu caso:
+
+Additional remote-work exposure in Switzerland, the UK, Germany and Panama.
+Pero esta puede sonar como que trabajaste remotamente desde todos esos países. Si eso no es exacto, mejor:
+
+Additional international exposure in Switzerland, the UK, Germany and Panama.
+Mi versión final de la sección sería:
+
+Spent nearly three months in Ireland, including Galway, English study and volunteer work.
+Travelled to Belgium for work meetings and technical sessions.
+Lived and worked remotely with international teams across Malta, Italy and Spain.
+Additional international exposure in Switzerland, the UK, Germany and Panama.
+English summary: Add Switzerland as international exposure, not as formal work experience.
+
+Para la oferta de Berna, sí ayuda psicológicamente [subtly]: no es determinante, pero indica que Suiza no te es completamente ajena [unfamiliar]. No lo infles más.
+
+
+Bueno, ahora como estoy un poco liado con el curso, que lo quiero terminar, solamente estoy echando currículums a ofertas que salen en LinkedIn, pero tengo curiosidad, ehm... si merece la pena, sobre todo para mi perfil, meterme en Infojobs y otras y bueno, supongo que en las otras páginas de trabajos remotos sí que interesará. Al final los requites tienen que currar y tendrán que echar en muchos sitios. Tendrán que publicar la oferta en muchos sitios para recibir cuantos más currículums mejor y para buscar los mejores candidatos. Pero para mi perfil me merece la pena Infojobs o me limito ahora mismo a trabajo remoto en esas de remoto y LinkedIn hasta terminar el curso?
+
+Thought for 5s
+26/05/2026 18:43:10 CEST
+
+Mi criterio: ahora mismo no dispersaría demasiado. Hasta terminar el curso, usaría una estrategia de bajo coste mental [low-friction]:
+
+Decisión
+Prioridad 1: LinkedIn + portales remotos/internacionales.
+Prioridad 2: InfoJobs solo filtrado, no como canal principal.
+
+Para tu perfil senior Java/Spring/Angular con inglés, remoto UE y opciones internacionales, LinkedIn te da mejor ratio calidad/tiempo. InfoJobs puede servir, pero suele tener más consultora local, salarios más bajos y más ruido.
+
+English summary: Focus on LinkedIn and remote/international boards; use InfoJobs only with strict filters.
+
+Cuándo sí usar InfoJobs
+Usaría InfoJobs si buscas:
+
+remoto España;
+
+Java/Spring Boot;
+
+senior;
+
+salario visible;
+
+empresas españolas o consultoras que no publican bien en LinkedIn;
+
+híbrido Málaga/Madrid como plan B.
+
+Pero con filtros duros:
+
+Java Spring Boot
+Senior
+Remoto
++50.000€
+Si no hay salario o no es remoto, no perdería tiempo salvo que la oferta sea muy buena.
+
+English summary: Use InfoJobs only for filtered senior Java remote roles with salary clarity.
+
+Canales que sí te compensan
+Yo haría esto:
+
+LinkedIn Jobs
+Principal. Ahí están recruiters, mensajes directos, ofertas internacionales y oportunidades de Suiza/Irlanda/remote.
+
+InfoJobs
+10–15 minutos, 2–3 veces por semana. Solo aplicar a ofertas muy claras.
+
+RemoteOK / WeWorkRemotely / Otta / Wellfound / Landing.jobs / Honeypot / EU Remote jobs
+Buenos para remoto internacional, aunque hay más competencia.
+
+Páginas directas de empresas
+UST, EPAM, Luxoft, Globant, Netcompany, ThoughtWorks, NTT Data, Accenture, Minsait, Ebury, Santander Tech, fintechs, healthtechs.
+
+English summary: LinkedIn first, then selective remote boards and direct company sites.
+
+Lo que no haría ahora
+No haría una búsqueda masiva en 10 portales. Te va a romper el foco del curso y terminarás con muchas candidaturas mediocres [mediocre].
+
+Tampoco aplicaría a cualquier cosa Java. Tu filtro debería ser:
+
+Remote Spain / Remote EU / Ireland / Switzerland / Málaga hybrid if strong
+Java + Spring Boot
+Angular optional but useful
+Salary >=55k Spain, >=80k Ireland, >=120k CHF Switzerland
+English summary: Avoid mass applying; use salary and remote filters.
+
+Plan práctico hasta terminar el curso
+Cada día máximo 45–60 minutos:
+
+20 min LinkedIn.
+
+15 min ofertas remotas.
+
+10 min InfoJobs filtrado.
+
+10 min mensajes a recruiters si hay fit.
+
+Objetivo: 5 candidaturas buenas al día, no 30 malas.
+
+English summary: Apply to fewer but better roles while finishing the course.
+
+Veredicto
+Para ti, InfoJobs no es prioritario, pero tampoco lo descartaría. Úsalo como canal secundario y rápido. Tu canal principal debe seguir siendo LinkedIn + remoto internacional + recruiters directos.
+
+La regla: si una oferta de InfoJobs no te acerca a 55k+ remoto/híbrido razonable, no merece tiempo ahora.
+
+
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+image.png
+
+Pasted text.txt
+Document
+
+Pasted text (2).txt
+Document
+
+Pasted text (3).txt
+Document
+
+Pasted text (4).txt
+Document
+
+video_transcription.txt
+Document
+Tengo otro video. No entiendo casi nada. Haz lo mismo que con el otro, documento de word, poniendo las frases originales, vete incluyendo toooodos los pantallazos que te paso, incluso haz tú más si es necesario, y vete poniendo por cada bloque del video (una, dos, tres frases, las que correspondan) y por cada pantallazo /grafica que hagas, la transcripción en inglés, la traducción al español, una explicación, y buenos ejemplos, mejores que la otra vez. Creo que te he pasado la transcripcion traducida al español. Por si te sirve y es mejor. Tómate tu tiempo en hacerlo bien. 
+
+Thought for 4m 37s
+26/05/2026 19:24:18 CEST
+
+He creado el Word con bloques del vídeo, frases originales, traducción al español, explicación, ejemplos, fórmulas y gráficos de apoyo. Usé la transcripción que subiste 
+
+ e incluí el pantallazo accesible; además añadí gráficos recreados para cubrir el resto de conceptos del vídeo.
+
+Documento: Descargar Word - Hypothesis Testing Study Guide
+
+DEVELOPER MODE
+
+[MUSIC] In many situations, we need to demonstrate validity of assertions. For example, you are a venture capitalist and is proposed a project running 36 months. With 36 months data at hand, should you invest in this project? Suppose you will invest if average monthly profit is over 20,000. This question is not to ask you to estimate some parameters. Instead, you need to make a judgement whether the condition is satisfied. We need a new statistic tool, hypothesis testing.
+This is a daily close price of Apple from 2007 to 2018. It looks like the price is in an upward trend and we may guess the average of daily return is positive. However, if we plot the daily return directly, the daily return goes positive, negative. And our assertion that the average of daily return is positive is not obvious. It is also not obvious whether the average of daily return is 0 or not. In the histogram daily return, it is approximately symmetric above 0. It is still not obvious whether the average daily return is different from 0.
+We want to use a quantitative statistical tool to make judgement about the assertion that the average daily return is not 0. In statistics, hypothesis testing can use sample information to test the validity of conjectures about these parameters. Let's start with hypothesis testing. The first step is to set hypothesis. We have null hypothesis and alternative hypothesis. Usually, the null hypothesis is assertion we are against. Alternative hypothesis is a conclusion we accept whenever we reject the null.
+Hence in our example, the null is population mean, the average daily return is 0. In alternative hypothesis, average daily return is not equal to 0. Whether to reject or not reject null hypothesis is a sample based decision. Intuitionally, given that the null is correct, the difference between sample statistic, x-bar, and the population parameter mu cannot be very large. If it's significantly large, the null should be incorrect, and we should accept alternative. To measure the magnitude of difference, we also need to consider the standard deviation of the sample, because the sample with a large standard deviation usually its magnitude is larger, hence we need to do standardization. If we know population standard deviation, the standardized sample mean we denote as z-hat, and the z-distribution, if population is normal, or it's sample size large.
+If a z-hat is far away from 0, then null is not likely to be true. In hypothesis testing, we start with assumption that the null is correct. Hence, we know population mean is equal to 0. But in most situations, population standard deviation is not known. Then we can replace population standard deviation with the sample standard deviation. Then this new term denoted as t-hat, has a new distribution, t-distribution. Similar to z-distribution, t is a symmetric with respect to 0 and a bell-shaped.
+The difference lies in the tail. T-distribution had flat tails which implies t has a higher chance to take the values in the two tails. The t-distribution is a dependent on the degree of freedom. In our example, the degree of freedom is equal to the degree of freedom of the sample standard deviation, which is n-1. As the sample size increases, the degree of freedom increases, and the t is more and more like z-distribution. So with a large sample, we can treat t as if it is a z-distribution. We will use a t-distribution in next topic.
+With large sample, t-hat follows z-distribution hence we denote this statistic using z-hat too. To emphasize that, it follows z-distribution. We can compute z-hat using Python. X-bar is sample mean, average daily return. S is sample standard deviation, n is a sample size. Z-hat equal to 2.5897 It's a standardized statistics. We use mu equal to 0 because we assume the null is correct at the beginning.
+If z-hat is different from 0 significantly, we can infer that this sample is not sampled for the population with mean equal to 0. Then, we can reject the null. How do we find the significance level? We use the probability on the two tails of a z-distribution. we fixed the significance level, for example, alpha equal to 5%, which is the probability for z to take the values of some demands of the two tails? We can see that these two demands is z less than -1.96 and z bigger 1.96. -1.96 and positive 1.96 are 2.5% and 97.5% quantiles of z. These two demands are called rejection regions and this kind of test is called two-tailed test. If statistic z-hat falls into rejection region, we can tell that statistics is far away from 0, significantly and then we can reject the null.
+Here, we should notice that z-hat is also possible to take values in rejection region even if the null is correct, and the mu equal to 0. This chance is equal to alpha 5%. In other words, we have a 5% chance to reject null wrongly. This is called a type 1 error, and the probability of a type 1 error is identical to the level of significance level. If a significance level is small, the probability of a type 1 error is smaller. Here, we demonstrate how to get the quantiles which is also called critical values. Alpha equal to 5% is a given hence, norm.ppf can be applied to get the quantiles.
+In the print, we use a bold number to generate whether to reject or not directly. Hence, our final conclusion, we will reject null hypothesis and the average daily return is not equal to 0. Our conclusion may be wrong but it happens only with 5% probability. We may want to further demonstrate that the average return is in fact positive. We need another kind of test, one-tail test. In one tail test, the null is the average daily return is less than or equal to 0, which we are against. The alternative hypothesis, the average daily return is positive.
+First, we take a mu equal to 0. We still need to standardize sample mean, which is average daily return in the sample. If z-hat is significantly large, which implies that sample mean is a positive comparing to mu equal to 0. Hence, it is not likely to be sampled from population, which may equal to 0. It is also not likely to be sampled from population with negative mu. Similarly, we fix significance level alpha, and identify rejection region using z-distribution, which is z-hat is larger than z-alpha. Using Python, we can show that the null is rejected under 5%.
+It means that the average daily return of a population is indeed positive. From this result, we do need a quantitative statistic tool to validate our assertion in addition to visualize the data. Conclusion, For population mean, we have these three kinds of hypothesis in the regression criteria. For different kinds of hypothesis, the criterion is different. A more popular way of testing is to compute p-value. We know that given that null is correct, standardized sample mean follows z-distribution. What is the probability for this distribution to take a more extreme value than our observation in given sample?
+This is a p-value, if p is less than alpha which is a threshold, it means that the null is unlikely to be true. With p-value, we only need to compare it with alpha although the way to compute p is different. Here's a demonstration of p-value approach, in two-tailed test, abs is to compute the absolute value. We use norm.cdf to compute cumulative probability. In this video, we discussed another quantitative tool which is applied to validate assertion about population. In next topic, we will use all knowledge we learned in topic two and three to explore relationship among different variables to build a prediction model in stock market. And finally, evaluate the performance of our models.
+
+
+Close
